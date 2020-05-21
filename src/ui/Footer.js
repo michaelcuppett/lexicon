@@ -3,7 +3,7 @@ import React from 'react'
 export const Footer = () => {
   return (
     <div className="app-footer">
-      <h1>Seow Vocab</h1>
+      <h1>Seow Hebrew Lexicon</h1>
       <div className="about">
         <h2>About</h2>
         <p>

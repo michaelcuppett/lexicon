@@ -1,0 +1,5861 @@
+[
+ {
+   "word_id": "adj-2zr5ys19xwoe",
+   "Chapter": 0,
+   "Part": "Adjective",
+   "Hebrew": "מְאֹד",
+   "English": "might; intensifier"
+ },
+ {
+   "word_id": "adj-xclviuln5xvr",
+   "Chapter": 2,
+   "Part": "Adjective",
+   "Hebrew": "קָדוֹשׁ",
+   "English": "holy"
+ },
+ {
+   "word_id": "adj-42hxeifnp0ef",
+   "Chapter": 2,
+   "Part": "Adjective",
+   "Hebrew": "חָדָשׁ",
+   "English": "new"
+ },
+ {
+   "word_id": "adj-mtpakxbpldz6",
+   "Chapter": 2,
+   "Part": "Adjective",
+   "Hebrew": "חָכָם",
+   "English": "wise"
+ },
+ {
+   "word_id": "adj-658ytyjsr357",
+   "Chapter": 2,
+   "Part": "Adjective",
+   "Hebrew": "צַדִּיק",
+   "English": "righteous"
+ },
+ {
+   "word_id": "adj-1jtod02g03dk",
+   "Chapter": 6,
+   "Part": "Adjective",
+   "Hebrew": "חַטָּא",
+   "English": "sinful"
+ },
+ {
+   "word_id": "adj-z8zq8on6u6wz",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "גָּדוֹל",
+   "English": "great, big, large"
+ },
+ {
+   "word_id": "adj-hz73fdt8pkhp",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "זָקֵן",
+   "English": "old, elder"
+ },
+ {
+   "word_id": "adj-1bqho41lm9nq",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "חָזָק",
+   "English": "strong, powerful"
+ },
+ {
+   "word_id": "adj-wpbhhgk049u3",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "חַי",
+   "English": "alive, living (animal)"
+ },
+ {
+   "word_id": "adj-3ehjdu5zoces",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "טוֹב",
+   "English": "good, beautiful"
+ },
+ {
+   "word_id": "adj-bfomaj11kqyi",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "יָפֶה",
+   "English": "handsome, beautiful"
+ },
+ {
+   "word_id": "adj-vhyasaierfvj",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "יָקָר",
+   "English": "precious, valuable, rare"
+ },
+ {
+   "word_id": "adj-rvs0cmstzgcw",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "יָשָׁר",
+   "English": "straight, just, upright"
+ },
+ {
+   "word_id": "adj-ykp280mjjilb",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "כָּבֵד",
+   "English": "heavy, severe, important"
+ },
+ {
+   "word_id": "adj-glwfepikfwg1",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "קָטֹן",
+   "English": "small, insignificant"
+ },
+ {
+   "word_id": "adj-0nfungqxllcc",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "רַב",
+   "English": "many, much, abundant, mighty"
+ },
+ {
+   "word_id": "adj-v1at7t9mumkg",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "רַע",
+   "English": "bad, evil, ugly"
+ },
+ {
+   "word_id": "adj-sq6v264coo34",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "רָעֵה",
+   "English": "hungry"
+ },
+ {
+   "word_id": "adj-brey9w0djcyu",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "רָשָׁע",
+   "English": "wicked, criminal"
+ },
+ {
+   "word_id": "adj-vtxmin8qgruw",
+   "Chapter": 7,
+   "Part": "Adjective",
+   "Hebrew": "אַחֵר",
+   "English": "another, other"
+ },
+ {
+   "word_id": "adj-q7rd2zr5ys19",
+   "Chapter": 10,
+   "Part": "Adjective",
+   "Hebrew": "זֶה",
+   "English": "this (masc sing)"
+ },
+ {
+   "word_id": "adj-xwoexclviuln",
+   "Chapter": 10,
+   "Part": "Adjective",
+   "Hebrew": "זֹאת",
+   "English": "this (fem sing)"
+ },
+ {
+   "word_id": "adj-5xvr42hxeifn",
+   "Chapter": 10,
+   "Part": "Adjective",
+   "Hebrew": "אֵ֫לֶּה",
+   "English": "these"
+ },
+ {
+   "word_id": "adj-p0efmtpakxbp",
+   "Chapter": 11,
+   "Part": "Adjective",
+   "Hebrew": "כֹּל",
+   "English": "all, each, every, the whole"
+ },
+ {
+   "word_id": "adj-ldz6658ytyjs",
+   "Chapter": 11,
+   "Part": "Adjective",
+   "Hebrew": "מִכֹּל",
+   "English": "most of all"
+ },
+ {
+   "word_id": "adj-r3571jtod02g",
+   "Chapter": 13,
+   "Part": "Adjective",
+   "Hebrew": "אֶבְיוֹן",
+   "English": "poor, needy"
+ },
+ {
+   "word_id": "adj-03dkz8zq8on6",
+   "Chapter": 13,
+   "Part": "Adjective",
+   "Hebrew": "עָנִי",
+   "English": "afflicted, humble"
+ },
+ {
+   "word_id": "adj-u6wzhz73fdt8",
+   "Chapter": 13,
+   "Part": "Adjective",
+   "Hebrew": "מָשִׁיחַ",
+   "English": "anointed"
+ },
+ {
+   "word_id": "adj-pkhp1bqho41l",
+   "Chapter": 17,
+   "Part": "Adjective",
+   "Hebrew": "רָחוֹק",
+   "English": "far"
+ },
+ {
+   "word_id": "adj-m9nqwpbhhgk0",
+   "Chapter": 17,
+   "Part": "Adjective",
+   "Hebrew": "רַק",
+   "English": "thin"
+ },
+ {
+   "word_id": "adj-49u33ehjdu5z",
+   "Chapter": 17,
+   "Part": "Adjective",
+   "Hebrew": "מְעַט",
+   "English": "little, few"
+ },
+ {
+   "word_id": "adj-ocesbfomaj11",
+   "Chapter": 18,
+   "Part": "Adjective",
+   "Hebrew": "עָצוּם",
+   "English": "mighty, numerous"
+ },
+ {
+   "word_id": "adj-kqyivhyasaie",
+   "Chapter": 19,
+   "Part": "Adjective",
+   "Hebrew": "קָרוֹב",
+   "English": "near"
+ },
+ {
+   "word_id": "adj-rfvjrvs0cmst",
+   "Chapter": 21,
+   "Part": "Adjective",
+   "Hebrew": "עָשִׁיר",
+   "English": "rich"
+ },
+ {
+   "word_id": "adj-zgcwykp280mj",
+   "Chapter": 21,
+   "Part": "Adjective",
+   "Hebrew": "טָהוֹר",
+   "English": "clean, pure"
+ },
+ {
+   "word_id": "adj-jilbglwfepik",
+   "Chapter": 22,
+   "Part": "Adjective",
+   "Hebrew": "זָר",
+   "English": "strange, foreign"
+ },
+ {
+   "word_id": "adj-fwg10nfungqx",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "אֶחָד",
+   "English": "one (masc), first"
+ },
+ {
+   "word_id": "adj-llccv1at7t9m",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "אַחַת",
+   "English": "one (fem), first"
+ },
+ {
+   "word_id": "adj-umkgsq6v264c",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "שֵׁנִי",
+   "English": "second"
+ },
+ {
+   "word_id": "adj-oo34brey9w0d",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "שְׁלִישִׁי",
+   "English": "third"
+ },
+ {
+   "word_id": "adj-jcyuvtxmin8q",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "רְבִיעִי",
+   "English": "fourth"
+ },
+ {
+   "word_id": "adj-gruwq7rd2zr5",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "חֲמִישִׁי",
+   "English": "fifth"
+ },
+ {
+   "word_id": "adj-ys19xwoexclv",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "שִׁשִּׁי",
+   "English": "sixth"
+ },
+ {
+   "word_id": "adj-iuln5xvr42hx",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "שְׁבִיעִי",
+   "English": "seventh"
+ },
+ {
+   "word_id": "adj-eifnp0efmtpa",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "שְׁמִינִי",
+   "English": "eighth"
+ },
+ {
+   "word_id": "adj-kxbpldz6658y",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "תְּשִׁיעִי",
+   "English": "ninth"
+ },
+ {
+   "word_id": "adj-tyjsr3571jto",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "עֲשִׁירִי",
+   "English": "tenth"
+ },
+ {
+   "word_id": "adj-d02g03dkz8zq",
+   "Chapter": 24,
+   "Part": "Adjective",
+   "Hebrew": "קַנָּה",
+   "English": "jealous"
+ },
+ {
+   "word_id": "adj-8on6u6wzhz73",
+   "Chapter": 27,
+   "Part": "Adjective",
+   "Hebrew": "שָׂבֵעַ",
+   "English": "full, satisfied"
+ },
+ {
+   "word_id": "adj-fdt8pkhp1bqh",
+   "Chapter": 28,
+   "Part": "Adjective",
+   "Hebrew": "תָּם",
+   "English": "complete, blameless"
+ },
+ {
+   "word_id": "adj-o41lm9nqwpbh",
+   "Chapter": 28,
+   "Part": "Adjective",
+   "Hebrew": "תָּמִים",
+   "English": "complete, blameless"
+ },
+ {
+   "word_id": "adj-hgk049u33ehj",
+   "Chapter": 29,
+   "Part": "Adjective",
+   "Hebrew": "נָקִיא",
+   "English": "innocent"
+ },
+ {
+   "word_id": "adv-urjyrlu1ppg7",
+   "Chapter": 5,
+   "Part": "Adverb",
+   "Hebrew": "יוֹמָם",
+   "English": "daily, by day"
+ },
+ {
+   "word_id": "adv-q5eobndgyqok",
+   "Chapter": 6,
+   "Part": "Adverb",
+   "Hebrew": "אַ֫חַר כֵּן",
+   "English": "afterward"
+ },
+ {
+   "word_id": "adv-wuap6a8gis78",
+   "Chapter": 6,
+   "Part": "Adverb",
+   "Hebrew": "אַחֲרֵי כֵן",
+   "English": "afterward"
+ },
+ {
+   "word_id": "adv-fli2dq4hd6sy",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "בַּמַּה־◌ּ",
+   "English": "how?"
+ },
+ {
+   "word_id": "adv-zy1rmrclkvy0",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "כַּמַּה־◌ּ",
+   "English": "how many?, how much?"
+ },
+ {
+   "word_id": "adv-ubmh6tv9tw6d",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "לָ֫מָּה",
+   "English": "why?"
+ },
+ {
+   "word_id": "adv-r1si1hgzmypr",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "עַד־מָה",
+   "English": "how long?"
+ },
+ {
+   "word_id": "adv-9szv86m1icai",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "עַל־מָה",
+   "English": "why?"
+ },
+ {
+   "word_id": "adv-t4jagxtesftx",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "אֵיךְ",
+   "English": "how? (interrogative adverb of manner)"
+ },
+ {
+   "word_id": "adv-2vhnomq6bg1a",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "אֵי",
+   "English": "where? (interrogative adverb of place)"
+ },
+ {
+   "word_id": "adv-9knpj0b6viky",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "מֵאַ֫יִן",
+   "English": "from where?"
+ },
+ {
+   "word_id": "adv-ilusgp77qw5o",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "לְבַד",
+   "English": "alone"
+ },
+ {
+   "word_id": "adv-2n4gygokxl1q",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "עַתָּה",
+   "English": "now"
+ },
+ {
+   "word_id": "adv-x1y6ityz5mi3",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "גַּם",
+   "English": "also, although"
+ },
+ {
+   "word_id": "adv-4qv8e6spposh",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "מַדּוּעַ",
+   "English": "why?"
+ },
+ {
+   "word_id": "adv-mr2lkwpql2m7",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "עוֹד",
+   "English": "still, yet, again, else"
+ },
+ {
+   "word_id": "adv-6tl0tnw3srij",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "פֹּה",
+   "English": "here"
+ },
+ {
+   "word_id": "adv-17gzdzfs0sqm",
+   "Chapter": 10,
+   "Part": "Adverb",
+   "Hebrew": "שָׁם",
+   "English": "there"
+ },
+ {
+   "word_id": "adv-zwc18daiuu9a",
+   "Chapter": 11,
+   "Part": "Adverb",
+   "Hebrew": "אָז",
+   "English": "then, at that time"
+ },
+ {
+   "word_id": "adv-hxk4f26jpi40",
+   "Chapter": 13,
+   "Part": "Adverb",
+   "Hebrew": "אָן",
+   "English": "where?"
+ },
+ {
+   "word_id": "adv-103totewmx02",
+   "Chapter": 13,
+   "Part": "Adverb",
+   "Hebrew": "כֹּה",
+   "English": "thus, here"
+ },
+ {
+   "word_id": "adv-wdyj85xb4y8f",
+   "Chapter": 14,
+   "Part": "Adverb",
+   "Hebrew": "אַךְ",
+   "English": "however, surely, indeed"
+ },
+ {
+   "word_id": "adv-33uk3jr1o0ru",
+   "Chapter": 14,
+   "Part": "Adverb",
+   "Hebrew": "אַף",
+   "English": "also, even, indeed"
+ },
+ {
+   "word_id": "adv-b31xa8o3kolt",
+   "Chapter": 14,
+   "Part": "Adverb",
+   "Hebrew": "רַק",
+   "English": "only"
+ },
+ {
+   "word_id": "adv-v6lmszvgr4iv",
+   "Chapter": 15,
+   "Part": "Adverb",
+   "Hebrew": "כֵּן",
+   "English": "so, thus, therefore, accordinly"
+ },
+ {
+   "word_id": "adv-rk5ccbe4z4py",
+   "Chapter": 16,
+   "Part": "Adverb",
+   "Hebrew": "הַרְבֵּה",
+   "English": "abundantly"
+ },
+ {
+   "word_id": "adv-y9bd8pzuj78n",
+   "Chapter": 17,
+   "Part": "Adverb",
+   "Hebrew": "יַחְדָּו",
+   "English": "together"
+ },
+ {
+   "word_id": "adv-69jq5e5wfutd",
+   "Chapter": 17,
+   "Part": "Adverb",
+   "Hebrew": "לָכֵן",
+   "English": "therefore"
+ },
+ {
+   "word_id": "adv-0c25n5d9ljze",
+   "Chapter": 17,
+   "Part": "Adverb",
+   "Hebrew": "עוֹד מְעַט",
+   "English": "soon"
+ },
+ {
+   "word_id": "adv-vqnv7hwnua7r",
+   "Chapter": 17,
+   "Part": "Adverb",
+   "Hebrew": "כִּמְעַט",
+   "English": "almost"
+ },
+ {
+   "word_id": "adv-sftx2vhnomq6",
+   "Chapter": 17,
+   "Part": "Adverb",
+   "Hebrew": "תָּמִיד",
+   "English": "always, constantly"
+ },
+ {
+   "word_id": "adv-bg1a9knpj0b6",
+   "Chapter": 18,
+   "Part": "Adverb",
+   "Hebrew": "טֶ֫רֶם",
+   "English": "not yet, before"
+ },
+ {
+   "word_id": "adv-vikyilusgp77",
+   "Chapter": 27,
+   "Part": "Adverb",
+   "Hebrew": "מָתַי",
+   "English": "when?"
+ },
+ {
+   "word_id": "adv-qw5o2n4gygok",
+   "Chapter": 28,
+   "Part": "Adverb",
+   "Hebrew": "אוּלַי",
+   "English": "perhaps"
+ },
+ {
+   "word_id": "adv-xl1qx1y6ityz",
+   "Chapter": 30,
+   "Part": "Adverb",
+   "Hebrew": "בַּל",
+   "English": "not"
+ },
+ {
+   "word_id": "adv-5mi34qv8e6sp",
+   "Chapter": 30,
+   "Part": "Adverb",
+   "Hebrew": "בְּלִי",
+   "English": "without"
+ },
+ {
+   "word_id": "nou-1yq4yr18wwne",
+   "Chapter": 0,
+   "Part": "Noun",
+   "Hebrew": "יוֹסֵף",
+   "English": "Joseph"
+ },
+ {
+   "word_id": "nou-xclviukn5xvr",
+   "Chapter": 0,
+   "Part": "Noun",
+   "Hebrew": "לֵוִי",
+   "English": "Levi"
+ },
+ {
+   "word_id": "nou-31hwdhfnpzef",
+   "Chapter": 0,
+   "Part": "Noun",
+   "Hebrew": "שָׁאוּל",
+   "English": "Saul"
+ },
+ {
+   "word_id": "nou-msp9kxbokdz5",
+   "Chapter": 0,
+   "Part": "Noun",
+   "Hebrew": "יִצְחָק",
+   "English": "Isaac"
+ },
+ {
+   "word_id": "nou-648xtyjsr257",
+   "Chapter": 0,
+   "Part": "Noun",
+   "Hebrew": "שְׁלֹמֹה",
+   "English": "Solomon"
+ },
+ {
+   "word_id": "nou-1itod02g03ck",
+   "Chapter": 0,
+   "Part": "Noun",
+   "Hebrew": "שֹׁמְרֹן",
+   "English": "Samaria"
+ },
+ {
+   "word_id": "nou-y7zp8nn6t5wy",
+   "Chapter": 0,
+   "Part": "Noun",
+   "Hebrew": "כֶּ֫רֶם",
+   "English": "vineyard"
+ },
+ {
+   "word_id": "nou-gy62fds8pjgo",
+   "Chapter": 0,
+   "Part": "Noun",
+   "Hebrew": "נֶ֫גֶב",
+   "English": "the dry country, south, Negev"
+ },
+ {
+   "word_id": "nou-0bphn40lm8mq",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "חָכְמָה",
+   "English": "wisdom"
+ },
+ {
+   "word_id": "nou-woahhgjz49u3",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "אֲדָמָה",
+   "English": "ground, land, soil"
+ },
+ {
+   "word_id": "nou-2egicu4zobdr",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "דָּבָר",
+   "English": "word, thing, affair, matter"
+ },
+ {
+   "word_id": "nou-7ajh5ewwfltd",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "עוֹלָם",
+   "English": "eternity, perpetuity"
+ },
+ {
+   "word_id": "nou-rct5n5d9maqe",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "אָדָם",
+   "English": "human, humanity, people, person, Adam"
+ },
+ {
+   "word_id": "nou-mqnv7hnoub7r",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "בְּרִית",
+   "English": "covenant, treaty, alliance"
+ },
+ {
+   "word_id": "nou-tfkx3vheedh6",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "גּוֹי",
+   "English": "nation"
+ },
+ {
+   "word_id": "nou-bgra9kdfarbw",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "דַּ֫עַת",
+   "English": "knowledge"
+ },
+ {
+   "word_id": "nou-viapiclsgg77",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "זָהָב",
+   "English": "gold"
+ },
+ {
+   "word_id": "nou-qw5o2o4hphfb",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "חֹ֫דֶשׁ",
+   "English": "new moon, month"
+ },
+ {
+   "word_id": "nou-nl1qx1z7jjyz",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "כֹּהֵן",
+   "English": "priest"
+ },
+ {
+   "word_id": "nou-6m9t4rv8e7tp",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "כֶּ֫סֶף",
+   "English": "silver, money"
+ },
+ {
+   "word_id": "nou-qosword_idi3lbmpr",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "מֶ֫לֶךְ",
+   "English": "king"
+ },
+ {
+   "word_id": "nou-l2m8xum0tnx4",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "מַמְלָכָה",
+   "English": "kingdom"
+ },
+ {
+   "word_id": "nou-ssj9s8gqdpgi",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "מַלְכוּת",
+   "English": "kingship, reign"
+ },
+ {
+   "word_id": "nou-0sqmzxds9dai",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "נָבִיא",
+   "English": "prophet"
+ },
+ {
+   "word_id": "nou-kv9ahok5fs6k",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "עֶ֫בֶד",
+   "English": "servant, slave"
+ },
+ {
+   "word_id": "nou-g8u1103toten",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "עֲבוֹדָה",
+   "English": "service, work"
+ },
+ {
+   "word_id": "nou-ny02weoj8wxb",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "צֶ֫דֶק",
+   "English": "righteousness"
+ },
+ {
+   "word_id": "nou-vy8fu3ul3ji2",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "צְדָקָה",
+   "English": "righteousness"
+ },
+ {
+   "word_id": "nou-p1rucu2ya8o3",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "קֹ֫דֶשׁ",
+   "English": "holiness, sanctuary"
+ },
+ {
+   "word_id": "nou-kfckw6lcjzwg",
+   "Chapter": 2,
+   "Part": "Noun",
+   "Hebrew": "קוֹל",
+   "English": "voice, sound, thundering"
+ },
+ {
+   "word_id": "nou-h4imrk6ccbfv",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "אֶ֫רֶץ",
+   "English": "land, earth, country (fem)"
+ },
+ {
+   "word_id": "nou-z4pyy9ce8p0u",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "דָּם",
+   "English": "blood"
+ },
+ {
+   "word_id": "nou-j79n7ajh5eww",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "דֶּ֫רֶךְ",
+   "English": "way, road (masc or fem)"
+ },
+ {
+   "word_id": "nou-fltdrct5n5d9",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "חֶ֫רֶב",
+   "English": "sword (fem)"
+ },
+ {
+   "word_id": "nou-maqemqnv7hno",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "יָד",
+   "English": "hand, power (fem)"
+ },
+ {
+   "word_id": "nou-ub7rtfkx3vhe",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "לֵב",
+   "English": "heart, mind (masc)"
+ },
+ {
+   "word_id": "nou-edh6bgra9kdf",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "לֵבָב",
+   "English": "heart, mind (masc)"
+ },
+ {
+   "word_id": "nou-arbwviapicls",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "מַ֫יִם",
+   "English": "water"
+ },
+ {
+   "word_id": "nou-gg77qw5o2o4h",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "מִשְׁפָּט",
+   "English": "judgment, justice, right, custom"
+ },
+ {
+   "word_id": "nou-phfbnl1qx1z7",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "שֹׁפֵט",
+   "English": "judge"
+ },
+ {
+   "word_id": "nou-jjyz6m9t4rv8",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "נֶ֫פֶשׁ",
+   "English": "self, life, breath, will, person, \"soul\" (fem)"
+ },
+ {
+   "word_id": "nou-e7tpqosword_idi3l",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "עַ֫יִן",
+   "English": "eye, spring (fem)"
+ },
+ {
+   "word_id": "nou-bmprl2m8xum0",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "פֶּה",
+   "English": "mouth"
+ },
+ {
+   "word_id": "nou-tnx4ssj9s8gq",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "פָּנִים",
+   "English": "face, presence"
+ },
+ {
+   "word_id": "nou-dpgi0sqmzxds",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "רֶ֫גֶל",
+   "English": "foot"
+ },
+ {
+   "word_id": "nou-9daikv9ahok5",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "שָׁמַ֫יִם",
+   "English": "heaven, sky"
+ },
+ {
+   "word_id": "nou-fs6kg8u1103t",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "אֹ֫זֶן",
+   "English": "ear (fem)"
+ },
+ {
+   "word_id": "nou-otenny02weoj",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "אֵל",
+   "English": "god, God, El"
+ },
+ {
+   "word_id": "nou-8wxbvy8fu3ul",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "אֱלֹהִים",
+   "English": "God, gods"
+ },
+ {
+   "word_id": "nou-3ji2p1rucu2y",
+   "Chapter": 3,
+   "Part": "Noun",
+   "Hebrew": "אֵם",
+   "English": "mother (fem)"
+ },
+ {
+   "word_id": "nou-a8o3kfckw6lc",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "חֶ֫סֶד",
+   "English": "devotion, loyaloty, faithfulness, proper act"
+ },
+ {
+   "word_id": "nou-jzwgh4imrk6c",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "אֶ֫בֶן",
+   "English": "stone (fem)"
+ },
+ {
+   "word_id": "nou-cbfvz4pyy9ce",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "אָדוֹן",
+   "English": "lord, master, sir"
+ },
+ {
+   "word_id": "nou-8p0uj79n7ajh",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "אֲדוֹנִים",
+   "English": "lord[s], master[s], sir"
+ },
+ {
+   "word_id": "nou-5ewwfltdrct5",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "אוֹר",
+   "English": "light"
+ },
+ {
+   "word_id": "nou-n5d9maqemqnv",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "אַ֫יִל",
+   "English": "ram"
+ },
+ {
+   "word_id": "nou-7hnoub7rtfkx",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "אֱנוֹשׁ",
+   "English": "humanity, a human"
+ },
+ {
+   "word_id": "nou-3vheedh6bgra",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "הֵיכָל",
+   "English": "palace, temple"
+ },
+ {
+   "word_id": "nou-9kdfarbwviap",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "חַ֫יִל",
+   "English": "valour, power, army, wealth"
+ },
+ {
+   "word_id": "nou-iclsgg77qw5o",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "חֹ֫שֶׁךְ",
+   "English": "darkness"
+ },
+ {
+   "word_id": "nou-2o4hphfbnl1q",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "לֶ֫חֶם",
+   "English": "bread, food"
+ },
+ {
+   "word_id": "nou-x1z7jjyz6m9t",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "מַלְאָךְ",
+   "English": "messenger, angel"
+ },
+ {
+   "word_id": "nou-4rv8e7tpqosi",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "מִלְחָמָה",
+   "English": "battle, war"
+ },
+ {
+   "word_id": "nou-di3lbmprl2m8",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "מָקוֹם",
+   "English": "place (masc)"
+ },
+ {
+   "word_id": "nou-xum0tnx4ssj9",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "סוּס",
+   "English": "horse"
+ },
+ {
+   "word_id": "nou-s8gqdpgi0sqm",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "עָוֺן",
+   "English": "guilt, iniquity (masc)"
+ },
+ {
+   "word_id": "nou-zxds9daikv9a",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "עוֹלָה",
+   "English": "whole (burnt) offering"
+ },
+ {
+   "word_id": "nou-hok5fs6kg8u1",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "פְּרִי",
+   "English": "fruit"
+ },
+ {
+   "word_id": "nou-103totenny02",
+   "Chapter": 4,
+   "Part": "Noun",
+   "Hebrew": "רוּחַ",
+   "English": "spirit, wind, breath (fem)"
+ },
+ {
+   "word_id": "nou-weoj8wxbvy8f",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "רֹאשׁ",
+   "English": "head, top, chief"
+ },
+ {
+   "word_id": "nou-u3ul3ji2p1ru",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "רֵאשִׁית",
+   "English": "first, beginning"
+ },
+ {
+   "word_id": "nou-cu2ya8o3kfck",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "אָב",
+   "English": "father"
+ },
+ {
+   "word_id": "nou-w6lcjzwgh4im",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "אֹ֫הֶל",
+   "English": "tent"
+ },
+ {
+   "word_id": "nou-rk6ccbfvz4py",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "אָח",
+   "English": "brother"
+ },
+ {
+   "word_id": "nou-y9ce8p0uj79n",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "אָחוֹת",
+   "English": "sister"
+ },
+ {
+   "word_id": "nou-u1yit6kxtm8e",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "אִישׁ",
+   "English": "man, male, husband"
+ },
+ {
+   "word_id": "nou-edh627s10beg",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "אִשָּׁה",
+   "English": "woman, female, wife (fem)"
+ },
+ {
+   "word_id": "nou-ar2xm9bp9clt",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "בַּ֫יִת",
+   "English": "house"
+ },
+ {
+   "word_id": "nou-7g8yhwwf2e47",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "בֵּן",
+   "English": "son, grandson"
+ },
+ {
+   "word_id": "nou-p7fbom1hyspx",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "בַּת",
+   "English": "daughter"
+ },
+ {
+   "word_id": "nou-9jyqwd9tvhvz",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "הַר",
+   "English": "mountain"
+ },
+ {
+   "word_id": "nou-5xjpqps8di3c",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "יוֹם",
+   "English": "day"
+ },
+ {
+   "word_id": "nou-bnprl3d8xkm0",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "יָם",
+   "English": "sea"
+ },
+ {
+   "word_id": "nou-knxuis99sy7q",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "כְּלִי",
+   "English": "vessel, instrument, weapon"
+ },
+ {
+   "word_id": "nou-4q6j1jrmzn3s",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "מַעֲשֶׂה",
+   "English": "deed"
+ },
+ {
+   "word_id": "nou-z319lv018ok5",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "עִיר",
+   "English": "city (fem)"
+ },
+ {
+   "word_id": "nou-6txag9vrsruk",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "עַם",
+   "English": "people"
+ },
+ {
+   "word_id": "nou-ot5nnyrtn4oa",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "שַׂר",
+   "English": "commander, ruler, prince"
+ },
+ {
+   "word_id": "nou-8wo2vpz6uull",
+   "Chapter": 5,
+   "Part": "Noun",
+   "Hebrew": "רִאשׁוֹן",
+   "English": "the first, former"
+ },
+ {
+   "word_id": "nou-4ai2f1iu2uso",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "אֲרוֹן",
+   "English": "ark of the covenant, chest"
+ },
+ {
+   "word_id": "nou-1zf3bfckwxcd",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "חַטָּאת",
+   "English": "sin, sin offering"
+ },
+ {
+   "word_id": "nou-jzm7i48mrk63",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "יהוה",
+   "English": "YHWH"
+ },
+ {
+   "word_id": "nou-325vqvgzp024",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "לַ֫יְלָה",
+   "English": "night (masc)"
+ },
+ {
+   "word_id": "nou-yg0la7zd70ah",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "הַלַּ֫יְלָה",
+   "English": "the night, tonight"
+ },
+ {
+   "word_id": "nou-55wn6lu4r3tw",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "הַיּוֹם",
+   "English": "the day, today"
+ },
+ {
+   "word_id": "nou-e640caq5mqow",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "דָּוִד",
+   "English": "Davword_id"
+ },
+ {
+   "word_id": "nou-y8nou1yit6kx",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "יְהוּדָה",
+   "English": "Judah"
+ },
+ {
+   "word_id": "nou-tm8eedh627s1",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "יְרוּשָׁלַ֫םִ",
+   "English": "Jerusalem"
+ },
+ {
+   "word_id": "nou-0begar2xm9bp",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "יִשְׂרָאֵל",
+   "English": "Israel"
+ },
+ {
+   "word_id": "nou-9clt7g8yhwwf",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "מֹשֶׁה",
+   "English": "Moses"
+ },
+ {
+   "word_id": "nou-2e47p7fbom1h",
+   "Chapter": 6,
+   "Part": "Noun",
+   "Hebrew": "מִצְרַ֫יִם",
+   "English": "Egypt"
+ },
+ {
+   "word_id": "nou-yspx9jyqwd9t",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "חַיִּים",
+   "English": "life"
+ },
+ {
+   "word_id": "nou-vhvz5xjpqps8",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "יֹשֶׁר",
+   "English": "uprightness, straightness"
+ },
+ {
+   "word_id": "nou-di3cbnprl3d8",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "יְשָׁרָה",
+   "English": "uprightness"
+ },
+ {
+   "word_id": "nou-xkm0knxuis99",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "רֹב",
+   "English": "abundance"
+ },
+ {
+   "word_id": "nou-sy7q4q6j1jrm",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "רָעָה",
+   "English": "disaster, harm"
+ },
+ {
+   "word_id": "nou-zn3sz319lv01",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "רָעָב",
+   "English": "famine, hunger"
+ },
+ {
+   "word_id": "nou-8ok56txag9vr",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "אַבְרָהָם",
+   "English": "Abraham"
+ },
+ {
+   "word_id": "nou-srukot5nnyrt",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "יַעֲקֹב",
+   "English": "Jacob"
+ },
+ {
+   "word_id": "nou-n4oa8wo2vpz6",
+   "Chapter": 7,
+   "Part": "Noun",
+   "Hebrew": "כָּבוֹד",
+   "English": "glory, honour"
+ },
+ {
+   "word_id": "nou-uull4ai2f1iu",
+   "Chapter": 8,
+   "Part": "Noun",
+   "Hebrew": "אֲהָבָה",
+   "English": "love"
+ },
+ {
+   "word_id": "nou-2uso1zf3bfck",
+   "Chapter": 8,
+   "Part": "Noun",
+   "Hebrew": "אֹ֫כֶל",
+   "English": "food"
+ },
+ {
+   "word_id": "nou-wxcdjzm7i48m",
+   "Chapter": 8,
+   "Part": "Noun",
+   "Hebrew": "אָכְלָה",
+   "English": "food"
+ },
+ {
+   "word_id": "nou-rk63325vqvgz",
+   "Chapter": 8,
+   "Part": "Noun",
+   "Hebrew": "יֶ֫לֶד",
+   "English": "boy, child"
+ },
+ {
+   "word_id": "nou-p024yg0la7zd",
+   "Chapter": 8,
+   "Part": "Noun",
+   "Hebrew": "מַטֶּה",
+   "English": "branch, tribe, staff (masc)"
+ },
+ {
+   "word_id": "nou-70ah55wn6lu4",
+   "Chapter": 8,
+   "Part": "Noun",
+   "Hebrew": "מַרְאֶה",
+   "English": "sight, appearance"
+ },
+ {
+   "word_id": "nou-r3twe640caq5",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "הוּא",
+   "English": "he, it, that"
+ },
+ {
+   "word_id": "nou-mqowy8nou1yi",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "הִיא",
+   "English": "she, it, that"
+ },
+ {
+   "word_id": "nou-t6kxtm8eedh6",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אַתָּה",
+   "English": "you (masc sing subject)"
+ },
+ {
+   "word_id": "nou-27s10begar2x",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אַתְּ",
+   "English": "you (fem sing subject)"
+ },
+ {
+   "word_id": "nou-m9bp9clt7g8y",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֲנִי",
+   "English": "I"
+ },
+ {
+   "word_id": "nou-hwwf2e47p7fb",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "הֵם",
+   "English": "they, those (masc)"
+ },
+ {
+   "word_id": "nou-om1hyspx9jyq",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "הֵ֫נָּה",
+   "English": "they, those (fem)"
+ },
+ {
+   "word_id": "nou-wd9tvhvz5xjp",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אַתֶּם",
+   "English": "you (masc plural subject)"
+ },
+ {
+   "word_id": "nou-qps8di3cbnpr",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אַתֶּן",
+   "English": "you (fem plural subject)"
+ },
+ {
+   "word_id": "nou-l3d8xkm0knxu",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֲנַ֫חְנוּ",
+   "English": "we"
+ },
+ {
+   "word_id": "nou-is99sy7q4q6j",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֹתוֹ",
+   "English": "him, it"
+ },
+ {
+   "word_id": "nou-1jrmzn3sz319",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֹתָהּ",
+   "English": "her, it"
+ },
+ {
+   "word_id": "nou-lv018ok56txa",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֹתְךָ",
+   "English": "you (masc sing object)"
+ },
+ {
+   "word_id": "nou-g9vrsrukot5n",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֹתָךְ",
+   "English": "you (fem sing object)"
+ },
+ {
+   "word_id": "nou-nyrtn4oa8wo2",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֹתִי",
+   "English": "me"
+ },
+ {
+   "word_id": "nou-vpz6uull4ai2",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֶתְהֶם",
+   "English": "them (masc)"
+ },
+ {
+   "word_id": "nou-f1iu2uso1zf3",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֶתְהֶן",
+   "English": "them (fem)"
+ },
+ {
+   "word_id": "nou-bfckwxcdjzm7",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֶתְכֶּם",
+   "English": "you (masc plural object)"
+ },
+ {
+   "word_id": "nou-i48mrk63325v",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֹתָ֫נוּ",
+   "English": "us"
+ },
+ {
+   "word_id": "nou-qvgzp024yg0l",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "מִזְבֵּחַ",
+   "English": "altar (masc)"
+ },
+ {
+   "word_id": "nou-a7zd70ah55wn",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "זֶ֫בַח",
+   "English": "sacrifice"
+ },
+ {
+   "word_id": "nou-6lu4r3twe640",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֵשׁ",
+   "English": "fire (fem)"
+ },
+ {
+   "word_id": "nou-caq5mqowy8no",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "גִּבּוֹר",
+   "English": "hero, warrior"
+ },
+ {
+   "word_id": "nou-gjsqen55ou2m",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "גְּבוּרָה",
+   "English": "strength, might"
+ },
+ {
+   "word_id": "nou-0l2ewemivjzn",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "דּוֹר",
+   "English": "generation (masc sing, fem plural)"
+ },
+ {
+   "word_id": "nou-vzw4gqwx3kg0",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "זֶ֫רַע",
+   "English": "seed"
+ },
+ {
+   "word_id": "nou-2ot6c4qnnmqf",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "מִדְבָּר",
+   "English": "desert, wilderness, wasteland"
+ },
+ {
+   "word_id": "nou-kp0jitmoj0k5",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "נָהָר",
+   "English": "river (masc sing, masc or fem plural)"
+ },
+ {
+   "word_id": "nou-4rjyrlu1ppgg",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "עֵץ",
+   "English": "tree, wood"
+ },
+ {
+   "word_id": "nou-z5exbxdqyqok",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "פַּרְעֹה",
+   "English": "Pharaoh (king of Egypt)"
+ },
+ {
+   "word_id": "nou-wuaz6a8gss78",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "שָׂדֶה",
+   "English": "field, country (masc)"
+ },
+ {
+   "word_id": "nou-fvi2d04hng2y",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "שֵׁם",
+   "English": "name (masc)"
+ },
+ {
+   "word_id": "nou-zx1rmrcukvy0",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "שָׁנָה",
+   "English": "year (fem)"
+ },
+ {
+   "word_id": "nou-ubvh63v92w6d",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "אֵלִיָּה",
+   "English": "Elijah"
+ },
+ {
+   "word_id": "nou-11si1hpzmypr",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "דָנִיֵּאל",
+   "English": "Daniel"
+ },
+ {
+   "word_id": "nou-91zv86m1imjr",
+   "Chapter": 9,
+   "Part": "Noun",
+   "Hebrew": "רִבְקָה",
+   "English": "Rebecca"
+ },
+ {
+   "word_id": "nou-t4ijqxteo1ft",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "מִי",
+   "English": "who? (personal interrogative pronoun)"
+ },
+ {
+   "word_id": "nou-ph3aa9c2x2nw",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "מַה־◌ּ",
+   "English": "what? (impersonal interrogative pronoun)"
+ },
+ {
+   "word_id": "nou-w79b5nxsh56k",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "אוֹת",
+   "English": "sign, mark (masc sing and fem plural)"
+ },
+ {
+   "word_id": "nou-47ho3c3ucsrb",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "בַּד",
+   "English": "solitude"
+ },
+ {
+   "word_id": "nou-ya03l3b7jhxc",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "כִּסֵּא",
+   "English": "throne, chair (masc)"
+ },
+ {
+   "word_id": "nou-tolt5fuls85p",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "נַ֫עַר",
+   "English": "lad"
+ },
+ {
+   "word_id": "nou-qdrv0tfllko4",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "עֵת",
+   "English": "time, season"
+ },
+ {
+   "word_id": "nou-8dy77ilnhy93",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "שָׁלוֹם",
+   "English": "peace, well-being, wholeness"
+ },
+ {
+   "word_id": "nou-sgiwgjsqen55",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "שֶׁ֫מֶשׁ",
+   "English": "sun (fem)"
+ },
+ {
+   "word_id": "nou-ou2m0l2ewemi",
+   "Chapter": 10,
+   "Part": "Noun",
+   "Hebrew": "תּוֹרָה",
+   "English": "instruction, law"
+ },
+ {
+   "word_id": "nou-vjznvzw4gqwx",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "יָרֵךְ",
+   "English": "thigh"
+ },
+ {
+   "word_id": "nou-3kg02ot6c4qn",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "כָּתֵף",
+   "English": "shoulder"
+ },
+ {
+   "word_id": "nou-nmqfkp0jitmo",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "בֶּ֫גֶד",
+   "English": "garment"
+ },
+ {
+   "word_id": "nou-j0k54rjyrlu1",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "בָּקָר",
+   "English": "large cattle"
+ },
+ {
+   "word_id": "nou-ppggz5exbxdq",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "בֹּ֫קֶר",
+   "English": "morning"
+ },
+ {
+   "word_id": "nou-yqokwuaz6a8g",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "חוֹמָה",
+   "English": "wall"
+ },
+ {
+   "word_id": "nou-ss78fvi2d04h",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "חוּץ",
+   "English": "street, outsword_ide (masc)"
+ },
+ {
+   "word_id": "nou-ng2yzx1rmrcu",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "יַ֫יִן",
+   "English": "wine"
+ },
+ {
+   "word_id": "nou-kvy0ubvh63v9",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "כָּנָף",
+   "English": "wing, skirt (fem)"
+ },
+ {
+   "word_id": "nou-2w6d11si1hpz",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "כְּרוּב",
+   "English": "cherub"
+ },
+ {
+   "word_id": "nou-mypr91zv86m1",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "מָ֫וֶת",
+   "English": "death"
+ },
+ {
+   "word_id": "nou-imjrt4ijqxte",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "מָטָר",
+   "English": "rain"
+ },
+ {
+   "word_id": "nou-o1ftph3aa9c2",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "מְלָאכָה",
+   "English": "mission, work"
+ },
+ {
+   "word_id": "nou-x2nww79b5nxs",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "נְאֻם",
+   "English": "oracle"
+ },
+ {
+   "word_id": "nou-h56k47ho3c3u",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "סֵ֫פֶר",
+   "English": "book, scroll, letter"
+ },
+ {
+   "word_id": "nou-csrbya03l3b7",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "עֵדָה",
+   "English": "council, counsel"
+ },
+ {
+   "word_id": "nou-jhxctolt5ful",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "עָפָר",
+   "English": "dust"
+ },
+ {
+   "word_id": "nou-s85pqdrv0tfl",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "צֹאן",
+   "English": "small cattle, flock, sheep and goats"
+ },
+ {
+   "word_id": "nou-lko48dy77iln",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "צָבָא",
+   "English": "host, army (both genders)"
+ },
+ {
+   "word_id": "nou-hy93sgiwgjsq",
+   "Chapter": 11,
+   "Part": "Noun",
+   "Hebrew": "תָּ֫וֶךְ",
+   "English": "mword_idst"
+ },
+ {
+   "word_id": "nou-en55ou2m0l2e",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "מִשְׁפָּחָה",
+   "English": "family"
+ },
+ {
+   "word_id": "nou-wemivjznvzw4",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "אַף",
+   "English": "nose, face, anger"
+ },
+ {
+   "word_id": "nou-gqwx3kg02ot6",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "חֵמָה",
+   "English": "heat, rage"
+ },
+ {
+   "word_id": "nou-c4qnnmqfkp0j",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "חֲצִי",
+   "English": "half, mword_iddle"
+ },
+ {
+   "word_id": "nou-itmoj0k54rjy",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "חָצֵר",
+   "English": "court (masc)"
+ },
+ {
+   "word_id": "nou-rlu1ppggz5ex",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "חֹק",
+   "English": "statute"
+ },
+ {
+   "word_id": "nou-bxdqyqokwuaz",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "חֻקָּה",
+   "English": "statute"
+ },
+ {
+   "word_id": "nou-6a8gss78fvi2",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "כֹּחַ",
+   "English": "strength, power"
+ },
+ {
+   "word_id": "nou-d04hng2yzx1r",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "מִגְדָּל",
+   "English": "tower"
+ },
+ {
+   "word_id": "nou-mrcukvy0ubvh",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "מִנְחָה",
+   "English": "gift, offering"
+ },
+ {
+   "word_id": "nou-63v92w6d11si",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "מִצְוָה",
+   "English": "commandment"
+ },
+ {
+   "word_id": "nou-1hpzmypr91zv",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "נֵ֫דֶר",
+   "English": "vow"
+ },
+ {
+   "word_id": "nou-86m1imjrt4ij",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "נֶ֫דֶר",
+   "English": "vow"
+ },
+ {
+   "word_id": "nou-qxteo1ftph3a",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "נַחֲלָה",
+   "English": "inheritance"
+ },
+ {
+   "word_id": "nou-a9c2x2nww79b",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "עֹז",
+   "English": "strength"
+ },
+ {
+   "word_id": "nou-5nxsh56k47ho",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "עַז",
+   "English": "strong"
+ },
+ {
+   "word_id": "nou-3c3ucsrbya03",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "עָנָן",
+   "English": "cloud"
+ },
+ {
+   "word_id": "nou-l3b7jhxctolt",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "רֵעַ",
+   "English": "friend"
+ },
+ {
+   "word_id": "nou-5fuls85pqdrv",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "רֵעֶה",
+   "English": "friend, companion"
+ },
+ {
+   "word_id": "nou-0tfllko48dy7",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "שֵׁן",
+   "English": "tooth, ivory"
+ },
+ {
+   "word_id": "nou-7ilnhy93sgiw",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "תִּפְאֶ֫רֶת",
+   "English": "glory, beauty, splendour"
+ },
+ {
+   "word_id": "nou-ljzevzx57hwx",
+   "Chapter": 12,
+   "Part": "Noun",
+   "Hebrew": "מַחֲנֶה",
+   "English": "camp, army"
+ },
+ {
+   "word_id": "nou-3a7r2ft62vhn",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "אֹיֵב",
+   "English": "enemy"
+ },
+ {
+   "word_id": "nou-nmqfbg1a9knp",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "מִשְׁכָּן",
+   "English": "tabernacle"
+ },
+ {
+   "word_id": "nou-j0b6vikyilu2",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "שָׁכֵן",
+   "English": "neighbour"
+ },
+ {
+   "word_id": "nou-gph7q55obndg",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "עֳנִי",
+   "English": "affliction"
+ },
+ {
+   "word_id": "nou-ygokxvaq71y6",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "פַּר",
+   "English": "young bull"
+ },
+ {
+   "word_id": "nou-is7z5mi24q48",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "צָפוֹן",
+   "English": "north, Zaphon"
+ },
+ {
+   "word_id": "nou-e6syzy1hmrcl",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "קֶ֫דֶם",
+   "English": "east, antiquity, front"
+ },
+ {
+   "word_id": "nou-kwy0ucmh6tv9",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "רֹעֶה",
+   "English": "shepherd"
+ },
+ {
+   "word_id": "nou-tw63r1ii17gz",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "תֵּימָן",
+   "English": "south, Teman"
+ },
+ {
+   "word_id": "nou-dzfsas0v8wc1",
+   "Chapter": 13,
+   "Part": "Noun",
+   "Hebrew": "יִרְאָה",
+   "English": "fear"
+ },
+ {
+   "word_id": "nou-8caiu49ahxte",
+   "Chapter": 14,
+   "Part": "Noun",
+   "Hebrew": "אֹ֫רֶךְ",
+   "English": "length"
+ },
+ {
+   "word_id": "nou-f26jpi40103t",
+   "Chapter": 14,
+   "Part": "Noun",
+   "Hebrew": "רֹ֫חַב",
+   "English": "wword_idth, breadth"
+ },
+ {
+   "word_id": "nou-x2eww702wdxj",
+   "Chapter": 14,
+   "Part": "Noun",
+   "Hebrew": "בֹּ֫שֶׁת",
+   "English": "shame"
+ },
+ {
+   "word_id": "nou-h5xb4y8f33uu",
+   "Chapter": 14,
+   "Part": "Noun",
+   "Hebrew": "מָגוֹר",
+   "English": "sojourning [place]"
+ },
+ {
+   "word_id": "nou-djrboar3b31x",
+   "Chapter": 14,
+   "Part": "Noun",
+   "Hebrew": "גֵּר",
+   "English": "sojourner"
+ },
+ {
+   "word_id": "nou-a8ockolt56lm",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "בְּרָכָה",
+   "English": "blessing"
+ },
+ {
+   "word_id": "nou-s8vgrdhv0tfc",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "בֶּ֫רֶךְ",
+   "English": "knee (fem)"
+ },
+ {
+   "word_id": "nou-cbe4z4p8y9bd",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "תְּהִלָּה",
+   "English": "praise, song of praise"
+ },
+ {
+   "word_id": "nou-7p9ujg8mg9jq",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "מִסְפָּר",
+   "English": "number"
+ },
+ {
+   "word_id": "nou-ee5wfu3d0c25",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "פֹּ֫עַל",
+   "English": "deed"
+ },
+ {
+   "word_id": "nou-nfd9ljzevzx5",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "מִקְדָּשׁ",
+   "English": "sanctuary"
+ },
+ {
+   "word_id": "nou-7hwx3a7r2ft6",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "בָּשָׂר",
+   "English": "flesh"
+ },
+ {
+   "word_id": "nou-2vhnnmqfbg1a",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "נַ֫חַל",
+   "English": "stream, wadi"
+ },
+ {
+   "word_id": "nou-9knpj0b6viky",
+   "Chapter": 15,
+   "Part": "Noun",
+   "Hebrew": "נְחֹ֫שֶׁת",
+   "English": "bronze, copper"
+ },
+ {
+   "word_id": "nou-ilu2gph7q55o",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "בְּכֹר",
+   "English": "first-born"
+ },
+ {
+   "word_id": "nou-bndgygokxvaq",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "כַּף",
+   "English": "palm, sole (fem)"
+ },
+ {
+   "word_id": "nou-71y6is7z5mi2",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "פֶּ֫תַח",
+   "English": "opening, entrance"
+ },
+ {
+   "word_id": "nou-4q48e6syzy1h",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "רֶ֫כֶב",
+   "English": "chariotry"
+ },
+ {
+   "word_id": "nou-mrclkwy0ucmh",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "מֶרְכָּבָה",
+   "English": "chariot"
+ },
+ {
+   "word_id": "nou-6tv9tw63r1ii",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "שֶׁ֫קֶר",
+   "English": "deception, falsehood"
+ },
+ {
+   "word_id": "nou-17gzdzfsas0v",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "יְשׁוּעָה",
+   "English": "deliverance, salvation"
+ },
+ {
+   "word_id": "nou-8wc18caiu49a",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "יֵ֫שַׁע",
+   "English": "deliverance, salvation"
+ },
+ {
+   "word_id": "nou-hxtef26jpi40",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "תְּשׁוּעָה",
+   "English": "deliverance, salvation"
+ },
+ {
+   "word_id": "nou-103tx2eww702",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "מַכָּה",
+   "English": "blow, strike"
+ },
+ {
+   "word_id": "nou-wdxjh5xb4y8f",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "צְעָקָה",
+   "English": "cry"
+ },
+ {
+   "word_id": "nou-33uudjrboar3",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "הִשְׁלִיךְ",
+   "English": "to throw, cast"
+ },
+ {
+   "word_id": "nou-b31xa8ockolt",
+   "Chapter": 16,
+   "Part": "Noun",
+   "Hebrew": "מִשְׁתֶּה",
+   "English": "banquet"
+ },
+ {
+   "word_id": "nou-56lms8vgrdhv",
+   "Chapter": 17,
+   "Part": "Noun",
+   "Hebrew": "יָמִין",
+   "English": "right sword_ide, right hand"
+ },
+ {
+   "word_id": "nou-0tfccbe4z4p8",
+   "Chapter": 17,
+   "Part": "Noun",
+   "Hebrew": "לָשׁוֹן",
+   "English": "tongue"
+ },
+ {
+   "word_id": "nou-y9bd7p9ujg8m",
+   "Chapter": 17,
+   "Part": "Noun",
+   "Hebrew": "שָׂפָה",
+   "English": "lip, edge, language"
+ },
+ {
+   "word_id": "nou-g9jqee5wfu3d",
+   "Chapter": 17,
+   "Part": "Noun",
+   "Hebrew": "שִׁפְחָה",
+   "English": "female servant"
+ },
+ {
+   "word_id": "nou-0c25nfd9ljze",
+   "Chapter": 17,
+   "Part": "Noun",
+   "Hebrew": "תּוֹעֵבָה",
+   "English": "abomination"
+ },
+ {
+   "word_id": "nou-vzx57hwx3a7r",
+   "Chapter": 17,
+   "Part": "Noun",
+   "Hebrew": "שִׂנְאָה",
+   "English": "hatred"
+ },
+ {
+   "word_id": "nou-2ft62vhnnmqf",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "מָחֳרָת",
+   "English": "the morrow, the next day, time to come"
+ },
+ {
+   "word_id": "nou-bg1a9knpj0b6",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "מָחָר",
+   "English": "the morrow, time to come"
+ },
+ {
+   "word_id": "nou-vikyilu2gph7",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "עֶ֫צֶם",
+   "English": "bone, substance, self (fem)"
+ },
+ {
+   "word_id": "nou-q55obndgygok",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "עֶ֫רֶב",
+   "English": "evening"
+ },
+ {
+   "word_id": "nou-xvaq71y6is7z",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "תּוֹדָה",
+   "English": "thanksgiving"
+ },
+ {
+   "word_id": "nou-5mi24q48e6sy",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "כִּפֻּר",
+   "English": "atonement"
+ },
+ {
+   "word_id": "nou-zy1hmrclkwy0",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "קֶ֫בֶר",
+   "English": "grave"
+ },
+ {
+   "word_id": "nou-ucmh6tv9tw63",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "קְטֹ֫רֶת",
+   "English": "incense"
+ },
+ {
+   "word_id": "nou-r1ii17gzdzfs",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "שִׂמְחָה",
+   "English": "joy"
+ },
+ {
+   "word_id": "nou-as0v8wc18cai",
+   "Chapter": 18,
+   "Part": "Noun",
+   "Hebrew": "שָׂרָף",
+   "English": "Saraph (a winged cobra)"
+ },
+ {
+   "word_id": "nou-u49ahxtef26j",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "חֵן",
+   "English": "grace, favour"
+ },
+ {
+   "word_id": "nou-pi40103tx2ew",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "עֵצָה",
+   "English": "counsel, plan, advice"
+ },
+ {
+   "word_id": "nou-w702wdxjh5xb",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "שֵׁ֫בֶט",
+   "English": "rod, tribe"
+ },
+ {
+   "word_id": "nou-4y8f33uudjrb",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "שַׁ֫עַר",
+   "English": "gate"
+ },
+ {
+   "word_id": "nou-oar3b31xa8oc",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "אֱמוּנָה",
+   "English": "truth"
+ },
+ {
+   "word_id": "nou-kolt56lms8vg",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "אָסִיר",
+   "English": "prisoner"
+ },
+ {
+   "word_id": "nou-rdhv0tfccbe4",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "חֵ֫לֶק",
+   "English": "portion, lot"
+ },
+ {
+   "word_id": "nou-z4p8y9bd7p9u",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "חֵ֫פֶץ",
+   "English": "desire, pleasure"
+ },
+ {
+   "word_id": "nou-jg8mg9jqee5w",
+   "Chapter": 19,
+   "Part": "Noun",
+   "Hebrew": "מַחֲשָׁבָה",
+   "English": "thought"
+ },
+ {
+   "word_id": "nou-fu3d0c25nfd9",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "בְּהֵמָה",
+   "English": "wild animal, beast, cattle"
+ },
+ {
+   "word_id": "nou-ctp9bx2fldzw",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "חֲמוֹר",
+   "English": "he-ass"
+ },
+ {
+   "word_id": "nou-wvyoty9sr2vx",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "מִגְרָשׁ",
+   "English": "pasture land"
+ },
+ {
+   "word_id": "nou-s9ted0s70t3a",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "קָצֶה",
+   "English": "extremity, end"
+ },
+ {
+   "word_id": "nou-yypp8en6k6mz",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "שֶׂה",
+   "English": "lamb, kword_id"
+ },
+ {
+   "word_id": "nou-7zxt53j8fjhp",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "שַׂק",
+   "English": "sack"
+ },
+ {
+   "word_id": "nou-11gho4rbm9dq",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "שֶׁ֫מֶן",
+   "English": "oil, fat"
+ },
+ {
+   "word_id": "nou-wpb786azv0l3",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "זֹנָה",
+   "English": "prostitute, promiscuous woman"
+ },
+ {
+   "word_id": "nou-t4793k4qfc4i",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "חָזוֹן",
+   "English": "vision"
+ },
+ {
+   "word_id": "nou-b5ema91raqy8",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "נֶ֫גַע",
+   "English": "plague, stroke"
+ },
+ {
+   "word_id": "nou-v7y0ia84hfua",
+   "Chapter": 20,
+   "Part": "Noun",
+   "Hebrew": "צוֹם",
+   "English": "fast, fasting"
+ },
+ {
+   "word_id": "nou-rvs02drsz62n",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "אַמָּה",
+   "English": "cubit"
+ },
+ {
+   "word_id": "nou-xao2yqcjjilb",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "אֱמֶת",
+   "English": "truth, reliability, firmness"
+ },
+ {
+   "word_id": "nou-6bw54gikew61",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "בָּמָה",
+   "English": "high place (a sanctuary)"
+ },
+ {
+   "word_id": "nou-qdftdgqxclc3",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "חֲלוֹם",
+   "English": "dream (masc)"
+ },
+ {
+   "word_id": "nou-l10j7j9cuckg",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "יֶ֫תֶר",
+   "English": "remainder, excess"
+ },
+ {
+   "word_id": "nou-sq6l2xu2eo3u",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "כֶּ֫בֶשׂ",
+   "English": "young ram"
+ },
+ {
+   "word_id": "nou-1heyzm0392ou",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "כֶּ֫שֶׂב",
+   "English": "young ram"
+ },
+ {
+   "word_id": "nou-utxdhm7ggruw",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "לוּחַ",
+   "English": "tablet (masc)"
+ },
+ {
+   "word_id": "nou-q7ic1pr5os1z",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "עֹ֫שֶׁר",
+   "English": "wealth"
+ },
+ {
+   "word_id": "nou-nweex3bv8ubn",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "מְנוּחָה",
+   "English": "rest"
+ },
+ {
+   "word_id": "nou-5nvr4s8w485d",
+   "Chapter": 21,
+   "Part": "Noun",
+   "Hebrew": "שִׁיר",
+   "English": "song"
+ },
+ {
+   "word_id": "nou-pz56ctp9bx2f",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "אָ֫וֶן",
+   "English": "wickedness, trouble, sorrow"
+ },
+ {
+   "word_id": "nou-ldzwwvyoty9s",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "אֵ֫מֶר",
+   "English": "word, saying"
+ },
+ {
+   "word_id": "nou-r2vxs9ted0s7",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "בִּנַה",
+   "English": "understanding, perception"
+ },
+ {
+   "word_id": "nou-0t3ayypp8en6",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "בַּ֫עַל",
+   "English": "lord, master, husband, owner, Baal"
+ },
+ {
+   "word_id": "nou-k6mz7zxt53j8",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "גְּבוּל",
+   "English": "territory, boundary"
+ },
+ {
+   "word_id": "nou-fjhp11gho4rb",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "חֵיק",
+   "English": "bosom"
+ },
+ {
+   "word_id": "nou-m9dqwpb786az",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "צָרָה",
+   "English": "distress"
+ },
+ {
+   "word_id": "nou-v0l3t4793k4q",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "קֶ֫רֶב",
+   "English": "inward part, inner parts, mword_iddle, mword_idst"
+ },
+ {
+   "word_id": "nou-fc4ib5ema91r",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "רַ֫חַם",
+   "English": "womb, mercy (fem)"
+ },
+ {
+   "word_id": "nou-aqy8v7y0ia84",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "רַחֲמִים",
+   "English": "compassion"
+ },
+ {
+   "word_id": "nou-hfuarvs02drs",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "רִיב",
+   "English": "controversy, dispute"
+ },
+ {
+   "word_id": "nou-z62nxao2yqcj",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "מוּסָר",
+   "English": "discipline, chastening"
+ },
+ {
+   "word_id": "nou-jilb6bw54gik",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "מִקְנֶה",
+   "English": "possession, property"
+ },
+ {
+   "word_id": "nou-ew61qdftdgqx",
+   "Chapter": 22,
+   "Part": "Noun",
+   "Hebrew": "קִנְיָן",
+   "English": "property"
+ },
+ {
+   "word_id": "nou-clc3l10j7j9c",
+   "Chapter": 23,
+   "Part": "Noun",
+   "Hebrew": "יַבָּשָׁה",
+   "English": "dry ground"
+ },
+ {
+   "word_id": "nou-uckgsq6l2xu2",
+   "Chapter": 23,
+   "Part": "Noun",
+   "Hebrew": "מָלוֹן",
+   "English": "lodging place"
+ },
+ {
+   "word_id": "nou-eo3u1heyzm03",
+   "Chapter": 23,
+   "Part": "Noun",
+   "Hebrew": "פֶּ֫גַע",
+   "English": "happening"
+ },
+ {
+   "word_id": "nou-92ouutxdhm7g",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שְׁנַ֫יִם",
+   "English": "two (masc)"
+ },
+ {
+   "word_id": "nou-gruwq7ic1pr5",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שְׁתַּ֫יִם",
+   "English": "two (fem)"
+ },
+ {
+   "word_id": "nou-os1znweex3bv",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שָׁלֹשׁ",
+   "English": "three (always disagree in gender)"
+ },
+ {
+   "word_id": "nou-8ubn5nvr4s8w",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "אַרְבַּע",
+   "English": "four (always disagree in gender)"
+ },
+ {
+   "word_id": "nou-485dpz56ctp9",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "חָמֵשׁ",
+   "English": "five (always disagree in gender)"
+ },
+ {
+   "word_id": "nou-bx2fldzwwvyo",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שֵׁשׁ",
+   "English": "six (always disagree in gender)"
+ },
+ {
+   "word_id": "nou-ty9sr2vxs9te",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שֶׁ֫בַע",
+   "English": "seven (always disagree in gender)"
+ },
+ {
+   "word_id": "nou-d0s70t3ayypp",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שְׁמֹנֶה",
+   "English": "eight (always disagree in gender)"
+ },
+ {
+   "word_id": "nou-8en6k6mz7zxt",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "תֵּ֫שַׁע",
+   "English": "nine (always disagree in gender)"
+ },
+ {
+   "word_id": "nou-53j8fjhp11gh",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "עֶ֫שֶׂר",
+   "English": "ten (always disagree in gender)"
+ },
+ {
+   "word_id": "nou-o4rbm9dqwpb7",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "עָשָׂר",
+   "English": "teen (agrees in gender)"
+ },
+ {
+   "word_id": "nou-86azv0l3t479",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "עֶשְׂרִים",
+   "English": "twenty"
+ },
+ {
+   "word_id": "nou-3k4qfc4ib5em",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "אַרְבָּעִים",
+   "English": "forty"
+ },
+ {
+   "word_id": "nou-a91raqy8v7y0",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "חֲמִשִּׁים",
+   "English": "fifty"
+ },
+ {
+   "word_id": "nou-ia84hfuarvs0",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "מֵאָה",
+   "English": "hundred (fem. with masc. modifiers)"
+ },
+ {
+   "word_id": "nou-2drsz62nxao2",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "אֶ֫לֶף",
+   "English": "thousand, tribe (masc. with fem. modifiers)"
+ },
+ {
+   "word_id": "nou-yqcjjilb6bw5",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "רְבָבָה",
+   "English": "ten thousand"
+ },
+ {
+   "word_id": "nou-4gikew61qdft",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "אָמָה",
+   "English": "female slave"
+ },
+ {
+   "word_id": "nou-dgqxclc3l10j",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "אֹ֫רַח",
+   "English": "path"
+ },
+ {
+   "word_id": "nou-7j9cuckgsq6l",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "גָּאוֹן",
+   "English": "prword_ide"
+ },
+ {
+   "word_id": "nou-2xu2eo3u1hey",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "גִּבְעָה",
+   "English": "hill"
+ },
+ {
+   "word_id": "nou-zm0392ouutxd",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "זְרוֹעַ",
+   "English": "arm (fem)"
+ },
+ {
+   "word_id": "nou-hm7ggruwq7ic",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "מוֹפֵת",
+   "English": "sign, omen (masc)"
+ },
+ {
+   "word_id": "nou-1pr5os1znwee",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "פֶּ֫סֶל",
+   "English": "word_idol"
+ },
+ {
+   "word_id": "nou-x3bv8ubn5nvr",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "קָהָל",
+   "English": "assembly"
+ },
+ {
+   "word_id": "nou-4s8w485dpz56",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שָׁוְא",
+   "English": "emptiness, vanity"
+ },
+ {
+   "word_id": "nou-87aqv0lut479",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שׁוֹר",
+   "English": "bull"
+ },
+ {
+   "word_id": "nou-3lvqf24i25fc",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שְׂמֹאל",
+   "English": "left, left hand, left sword_ide"
+ },
+ {
+   "word_id": "nou-0arragp8m8o1",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "שַׁבָּת",
+   "English": "Sabbath, rest (masc or sing)"
+ },
+ {
+   "word_id": "nou-j194h5lahljr",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "עֵד",
+   "English": "witness, testimony"
+ },
+ {
+   "word_id": "nou-3dijq62nobfs",
+   "Chapter": 24,
+   "Part": "Noun",
+   "Hebrew": "קִנְאָה",
+   "English": "jealousy"
+ },
+ {
+   "word_id": "nou-yrd9a8c26bn5",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "אֶ֫רֶז",
+   "English": "cedar"
+ },
+ {
+   "word_id": "nou-5g9b5m6sqe6k",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "בָּחוּר",
+   "English": "young man"
+ },
+ {
+   "word_id": "nou-d7hocc33ms0k",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "בְּתוּלָה",
+   "English": "young woman"
+ },
+ {
+   "word_id": "nou-xj0ckca6jhxl",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "גַּיְא",
+   "English": "valley"
+ },
+ {
+   "word_id": "nou-txu2eftv1h4p",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "חַג",
+   "English": "festival"
+ },
+ {
+   "word_id": "nou-0mq492ollknd",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "יָרֵחַ",
+   "English": "moon"
+ },
+ {
+   "word_id": "nou-8dyh7ikmgyi3",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "כּוֹכָב",
+   "English": "star"
+ },
+ {
+   "word_id": "nou-sphvpisznne5",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "לְאֹם",
+   "English": "people"
+ },
+ {
+   "word_id": "nou-n3cm9lbewomi",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "מִזְרָח",
+   "English": "sunrise, east"
+ },
+ {
+   "word_id": "nou-us8n486egq56",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "מָרוֹם",
+   "English": "height, high place"
+ },
+ {
+   "word_id": "nou-cjg0bo2fb4qw",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "נָשִׂיא",
+   "English": "prince"
+ },
+ {
+   "word_id": "nou-wvzojo9iitwy",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "פַּ֫עַם",
+   "English": "step, occurrence"
+ },
+ {
+   "word_id": "nou-s9ke3rt7ru3b",
+   "Chapter": 25,
+   "Part": "Noun",
+   "Hebrew": "שֻׁלְחָן",
+   "English": "table"
+ },
+ {
+   "word_id": "nou-pyqgzedxkwmp",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "אַרְיֵה",
+   "English": "lion"
+ },
+ {
+   "word_id": "nou-7pxt64jyga7f",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "בֶּ֫טֶן",
+   "English": "belly, body (fem)"
+ },
+ {
+   "word_id": "nou-r1g8evrbdzdh",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "מוֹעֵד",
+   "English": "appointed time/place; season"
+ },
+ {
+   "word_id": "nou-nf1787aqv0lu",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "עֵז",
+   "English": "(she) goat"
+ },
+ {
+   "word_id": "nou-t4793lvqf24i",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "חֵ֫רֶם",
+   "English": "ban"
+ },
+ {
+   "word_id": "nou-25fc0arragp8",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "יוֹנֵק",
+   "English": "infant"
+ },
+ {
+   "word_id": "nou-m8o1j194h5la",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "מָכוֹן",
+   "English": "place, support"
+ },
+ {
+   "word_id": "nou-hljr3dijq62n",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "נִפְלֵאת",
+   "English": "wonder"
+ },
+ {
+   "word_id": "nou-obfsyrd9a8c2",
+   "Chapter": 26,
+   "Part": "Noun",
+   "Hebrew": "פֶּ֫לֶא",
+   "English": "wonder"
+ },
+ {
+   "word_id": "nou-6bn55g9b5m6s",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "אוֹצָר",
+   "English": "treasure, treasury, storehouse (masc)"
+ },
+ {
+   "word_id": "nou-qe6kd7hocc33",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "דֶּ֫לֶת",
+   "English": "door"
+ },
+ {
+   "word_id": "nou-ms0kxj0ckca6",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "זָכָר",
+   "English": "male"
+ },
+ {
+   "word_id": "nou-jhxltxu2eftv",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "חִטָּה",
+   "English": "wheat (fem)"
+ },
+ {
+   "word_id": "nou-1h4p0mq492ol",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "נֵר",
+   "English": "lamp"
+ },
+ {
+   "word_id": "nou-lknd8dyh7ikm",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "קָצִיר",
+   "English": "harvest"
+ },
+ {
+   "word_id": "nou-gyi3sphvpisz",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "תְּחִלָּה",
+   "English": "beginning"
+ },
+ {
+   "word_id": "nou-nne5n3cm9lbe",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "נָכְרִי",
+   "English": "foreigner"
+ },
+ {
+   "word_id": "nou-womius8n486e",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "מַצֵּבָה",
+   "English": "standing stone"
+ },
+ {
+   "word_id": "nou-gq56cjg0bo2f",
+   "Chapter": 27,
+   "Part": "Noun",
+   "Hebrew": "קְלָלָה",
+   "English": "curse"
+ },
+ {
+   "word_id": "nou-b4qwwvzojo9i",
+   "Chapter": 28,
+   "Part": "Noun",
+   "Hebrew": "אָתוֹן",
+   "English": "(she-) ass"
+ },
+ {
+   "word_id": "nou-itwys9ke3rt7",
+   "Chapter": 28,
+   "Part": "Noun",
+   "Hebrew": "מִדָּה",
+   "English": "measure, measurement"
+ },
+ {
+   "word_id": "nou-ru3bpyqgzedx",
+   "Chapter": 28,
+   "Part": "Noun",
+   "Hebrew": "פָּלִיט",
+   "English": "fugitive"
+ },
+ {
+   "word_id": "nou-kwmp7pxt64jy",
+   "Chapter": 28,
+   "Part": "Noun",
+   "Hebrew": "פְּלֵיטָה",
+   "English": "escape, what has escaped/survived"
+ },
+ {
+   "word_id": "nou-ga7fr1g8evrb",
+   "Chapter": 28,
+   "Part": "Noun",
+   "Hebrew": "תֹּם",
+   "English": "integrity, completeness"
+ },
+ {
+   "word_id": "nou-dzdhnf1787aq",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "גּוֹרָל",
+   "English": "lot (masc)"
+ },
+ {
+   "word_id": "nou-v0lut4793lvq",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "גַּל",
+   "English": "wave, heap (of stone)"
+ },
+ {
+   "word_id": "nou-f24i25fc0arr",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "דָּג",
+   "English": "fish"
+ },
+ {
+   "word_id": "nou-agp8m8o1j194",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "הֶ֫בֶל",
+   "English": "word_idol, futility"
+ },
+ {
+   "word_id": "nou-h5lahljr3dij",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "יְרֵכָה",
+   "English": "rear, hindmost part"
+ },
+ {
+   "word_id": "nou-q62nobfsyrd9",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "מֵעִים",
+   "English": "bowels, entrails"
+ },
+ {
+   "word_id": "nou-a8c26bn55g9b",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "קֵץ",
+   "English": "end"
+ },
+ {
+   "word_id": "nou-5m6sqe6kd7ho",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "שָׂכָר",
+   "English": "reward, wages"
+ },
+ {
+   "word_id": "nou-cc33ms0kxj0c",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "שְׂאוֹל",
+   "English": "Sheol, the underworld"
+ },
+ {
+   "word_id": "nou-kca6jhxltxu2",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "תְּהוֹם",
+   "English": "deep, ocean, abyss (masc or fem)"
+ },
+ {
+   "word_id": "nou-eftv1h4p0mq4",
+   "Chapter": 29,
+   "Part": "Noun",
+   "Hebrew": "תְּפִלָּה",
+   "English": "prayer"
+ },
+ {
+   "word_id": "nou-92ollknd8dyh",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "הָדָר",
+   "English": "splendour, grandeur, adornment"
+ },
+ {
+   "word_id": "nou-7ikmgyi3sphv",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "זָמִיר",
+   "English": "song"
+ },
+ {
+   "word_id": "nou-pisznne5n3cm",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "מִזְמֹר",
+   "English": "psalm"
+ },
+ {
+   "word_id": "nou-9lbewomius8n",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "יַ֫עַר",
+   "English": "forest"
+ },
+ {
+   "word_id": "nou-486egq56cjg0",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "עוֹף",
+   "English": "bird, fowl"
+ },
+ {
+   "word_id": "nou-bo2fb4qwwvzo",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "צוּר",
+   "English": "rock (mountain)"
+ },
+ {
+   "word_id": "nou-jo9iitwys9ke",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "צַר",
+   "English": "adversary"
+ },
+ {
+   "word_id": "nou-3rt7ru3bpyqg",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "תֵּ֫בֵל",
+   "English": "world"
+ },
+ {
+   "word_id": "nou-zedxkwmp7pxt",
+   "Chapter": 30,
+   "Part": "Noun",
+   "Hebrew": "תְּרוּעָה",
+   "English": "alarm, shout"
+ },
+ {
+   "word_id": "pcl-96zd609g54vm",
+   "Chapter": 9,
+   "Part": "Particle",
+   "Hebrew": "הִנֵּה",
+   "English": "Here now! (word_idea of immediacy)"
+ },
+ {
+   "word_id": "pcl-5kt3q2svd53z",
+   "Chapter": 9,
+   "Part": "Particle",
+   "Hebrew": "אֵת",
+   "English": "(definite direct object)"
+ },
+ {
+   "word_id": "pcl-cap4lqnvx7mn",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "אֲשֶׁר",
+   "English": "that, who, which, when (relative particle); that, so that, for, because (conjunction)"
+ },
+ {
+   "word_id": "pcl-u1xhs5jwtl7d",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "יֵשׁ",
+   "English": "there exist(s)/is/are"
+ },
+ {
+   "word_id": "pcl-edg616r0zadf",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "יֶשְׁנוֹ",
+   "English": "he is/exists"
+ },
+ {
+   "word_id": "pcl-9q1wl8ao8bls",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "אֵין",
+   "English": "there exists(s)/is/are not"
+ },
+ {
+   "word_id": "pcl-6g7xgwve1e47",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "לֹא",
+   "English": "not (general or continuous)"
+ },
+ {
+   "word_id": "pcl-p7fanl1gxrpx",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "הֲ◌",
+   "English": "[ ]? (interrogative particle)"
+ },
+ {
+   "word_id": "pcl-9jypwc8tuhvy",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "בַּאֲשֶׁר",
+   "English": "in that, inasmuch as"
+ },
+ {
+   "word_id": "pcl-4xjppor8ch2b",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "כַּאֲשֶׁר",
+   "English": "as, even as, when"
+ },
+ {
+   "word_id": "pcl-bmoql2c7wkl0",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "עֵ֫קֶב",
+   "English": "because"
+ },
+ {
+   "word_id": "pcl-jmwuir99sy6q",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "יַ֫עַן",
+   "English": "because, on account of"
+ },
+ {
+   "word_id": "pcl-3p6i0iqmyn3r",
+   "Chapter": 10,
+   "Part": "Particle",
+   "Hebrew": "כִּי",
+   "English": "for, because, that, indeed, (quotation)"
+ },
+ {
+   "word_id": "pcl-z308kuz07nk4",
+   "Chapter": 14,
+   "Part": "Particle",
+   "Hebrew": "אוֹ",
+   "English": "or"
+ },
+ {
+   "word_id": "pcl-5swaf8urrqtj",
+   "Chapter": 14,
+   "Part": "Particle",
+   "Hebrew": "אִם",
+   "English": "if, or, either"
+ },
+ {
+   "word_id": "pcl-ot4nmxqsm4o9",
+   "Chapter": 14,
+   "Part": "Particle",
+   "Hebrew": "כִּי אִם",
+   "English": "rather, except, yet"
+ },
+ {
+   "word_id": "pcl-8vn1voy5ttkk",
+   "Chapter": 15,
+   "Part": "Particle",
+   "Hebrew": "עַל־כֵּן",
+   "English": "for this reason, therefore"
+ },
+ {
+   "word_id": "pcl-39i1f0ht2uso",
+   "Chapter": 18,
+   "Part": "Particle",
+   "Hebrew": "נָא",
+   "English": "[  ]! (exclamation)"
+ },
+ {
+   "word_id": "pcl-0ye3aebkvwbc",
+   "Chapter": 18,
+   "Part": "Particle",
+   "Hebrew": "לְמַ֫עַן",
+   "English": "in order that, so that"
+ },
+ {
+   "word_id": "pcl-izm6h38lrj52",
+   "Chapter": 18,
+   "Part": "Particle",
+   "Hebrew": "פֶּן־",
+   "English": "lest"
+ },
+ {
+   "word_id": "pcl-215upufyoz24",
+   "Chapter": 18,
+   "Part": "Particle",
+   "Hebrew": "אַל",
+   "English": "not (specific or instantaneous)"
+ },
+ {
+   "word_id": "pcl-yfzk96zd609g",
+   "Chapter": 23,
+   "Part": "Particle",
+   "Hebrew": "לְבִלְתִּי",
+   "English": "not (infinitive)"
+ },
+ {
+   "word_id": "pcl-54vm5kt3q2sv",
+   "Chapter": 23,
+   "Part": "Particle",
+   "Hebrew": "בְּלֹא",
+   "English": "without"
+ },
+ {
+   "word_id": "pcl-d53zcap4lqnv",
+   "Chapter": 23,
+   "Part": "Particle",
+   "Hebrew": "בְּלִי",
+   "English": "without"
+ },
+ {
+   "word_id": "pcl-x7mnu1xhs5jw",
+   "Chapter": 29,
+   "Part": "Particle",
+   "Hebrew": "לוּ",
+   "English": "if (hypothetical)"
+ },
+ {
+   "word_id": "pcl-tl7dedg616r0",
+   "Chapter": 29,
+   "Part": "Particle",
+   "Hebrew": "לוּלֵי",
+   "English": "if not (hypothetical)"
+ },
+ {
+   "word_id": "pcl-zadf9q1wl8ao",
+   "Chapter": 29,
+   "Part": "Particle",
+   "Hebrew": "אֲהָהּ",
+   "English": "Ah!"
+ },
+ {
+   "word_id": "prp-urjxqku1ppg6",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "אַ֫חַר",
+   "English": "after, behind"
+ },
+ {
+   "word_id": "prp-p5dnamdfxpnj",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "אַחֲרֵי",
+   "English": "after, behind"
+ },
+ {
+   "word_id": "prp-wuap6a7fhs78",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "אֶל־",
+   "English": "unto, into, to, toward"
+ },
+ {
+   "word_id": "prp-elh2dp3hd5ry",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "בְּ",
+   "English": "in, by, with, among, through, as"
+ },
+ {
+   "word_id": "prp-yx0qlqbkkvxz",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "בֵּין",
+   "English": "between"
+ },
+ {
+   "word_id": "prp-tblg5tu8sv5c",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "כְּ",
+   "English": "like, as, about, according to"
+ },
+ {
+   "word_id": "prp-r0ri0gfzmyor",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "לְ",
+   "English": "to, for, in regard to, with reference to"
+ },
+ {
+   "word_id": "prp-9rzv75l0hc9h",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "לִפְנֵי",
+   "English": "before"
+ },
+ {
+   "word_id": "prp-t3i9gwtde1fj",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "עַל־פְּנֵי",
+   "English": "on the surface of, before"
+ },
+ {
+   "word_id": "prp-oh3998csx2nv",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "מִפְנֵי",
+   "English": "from the presence of, because of"
+ },
+ {
+   "word_id": "prp-v69b5mxsh46k",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "מִלִּפְנֵי",
+   "English": "from the presence of, because of"
+ },
+ {
+   "word_id": "prp-47ge2bttciqa",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "מִן־",
+   "English": "from, away from, out of, some of, because of, emphasis"
+ },
+ {
+   "word_id": "prp-o9q2k2a6j7nc",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "עַד־",
+   "English": "until, as far as"
+ },
+ {
+   "word_id": "prp-jnks4eklr84o",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "עַל־",
+   "English": "upon, on, over, concerning, besword_ide, against"
+ },
+ {
+   "word_id": "prp-qchu0sebbae3",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "תַּ֫חַת",
+   "English": "under, beneath, instead of, in place of"
+ },
+ {
+   "word_id": "prp-8do76iac7o8t",
+   "Chapter": 6,
+   "Part": "Preposition",
+   "Hebrew": "נֶ֫גֶד",
+   "English": "in front of"
+ },
+ {
+   "word_id": "prp-sf7mf9ipdd44",
+   "Chapter": 9,
+   "Part": "Preposition",
+   "Hebrew": "אֵת",
+   "English": "with, together with"
+ },
+ {
+   "word_id": "prp-nt2lzl1emec8",
+   "Chapter": 9,
+   "Part": "Preposition",
+   "Hebrew": "סָבִיב",
+   "English": "around"
+ },
+ {
+   "word_id": "prp-kiynuyw4ggvw",
+   "Chapter": 9,
+   "Part": "Preposition",
+   "Hebrew": "עִם",
+   "English": "with"
+ },
+ {
+   "word_id": "prp-3j6q1os5b4qm",
+   "Chapter": 20,
+   "Part": "Preposition",
+   "Hebrew": "בַּעֲבוּר",
+   "English": "for the sake of, on account of"
+ },
+ {
+   "word_id": "prp-nmpfaf0i8jmo",
+   "Chapter": 20,
+   "Part": "Preposition",
+   "Hebrew": "לִקְרָאת",
+   "English": "toward, against"
+ },
+ {
+   "word_id": "prp-izj5urjxqku1",
+   "Chapter": 20,
+   "Part": "Preposition",
+   "Hebrew": "מַ֫עַל",
+   "English": "above"
+ },
+ {
+   "word_id": "prp-ppg6p5dnamdf",
+   "Chapter": 22,
+   "Part": "Preposition",
+   "Hebrew": "אֵ֫צֶל",
+   "English": "near, besword_ide"
+ },
+ {
+   "word_id": "prp-xpnjwuap6a7f",
+   "Chapter": 29,
+   "Part": "Preposition",
+   "Hebrew": "בַּ֫עַד",
+   "English": "through, around, on behalf of"
+ },
+ {
+   "word_id": "vrb-pmeslfowkjb1",
+   "Chapter": 0,
+   "Part": "Verb",
+   "Hebrew": "הִשְׁתַּחֲוָה",
+   "English": "to bow down"
+ },
+ {
+   "word_id": "vrb-kz8i5h8askie",
+   "Chapter": 2,
+   "Part": "Verb",
+   "Hebrew": "מָלַךְ",
+   "English": "to reign, rule"
+ },
+ {
+   "word_id": "vrb-rp4k152acn12",
+   "Chapter": 2,
+   "Part": "Verb",
+   "Hebrew": "עָבַד",
+   "English": "to serve, work, till, worship"
+ },
+ {
+   "word_id": "vrb-9gcx7kyc80mt",
+   "Chapter": 3,
+   "Part": "Verb",
+   "Hebrew": "שָׁפַט",
+   "English": "to judge"
+ },
+ {
+   "word_id": "vrb-tsvlgl6feqsu",
+   "Chapter": 3,
+   "Part": "Verb",
+   "Hebrew": "פָּנָה",
+   "English": "to face, turn"
+ },
+ {
+   "word_id": "vrb-o6gb0np3nq07",
+   "Chapter": 4,
+   "Part": "Verb",
+   "Hebrew": "עָלָה",
+   "English": "to go up, ascend"
+ },
+ {
+   "word_id": "vrb-mvmdvbathtjm",
+   "Chapter": 5,
+   "Part": "Verb",
+   "Hebrew": "עָשָׂה",
+   "English": "to do, make, perform"
+ },
+ {
+   "word_id": "vrb-4mup20gvc74c",
+   "Chapter": 6,
+   "Part": "Verb",
+   "Hebrew": "חָטָא",
+   "English": "to sin"
+ },
+ {
+   "word_id": "vrb-oyd4bro89wad",
+   "Chapter": 7,
+   "Part": "Verb",
+   "Hebrew": "חָזַק",
+   "English": "to be strong, prevail"
+ },
+ {
+   "word_id": "vrb-jcy4437nrwhq",
+   "Chapter": 7,
+   "Part": "Verb",
+   "Hebrew": "כָּבֵד",
+   "English": "to be important; to be weighty, heavy"
+ },
+ {
+   "word_id": "vrb-q1450hsmbz0f",
+   "Chapter": 7,
+   "Part": "Verb",
+   "Hebrew": "רָעֵב",
+   "English": "to be hungry"
+ },
+ {
+   "word_id": "vrb-y2b9x6oo7dl5",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "אָהַב",
+   "English": "to love"
+ },
+ {
+   "word_id": "vrb-i4lxfx51e2i6",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "אָכַל",
+   "English": "to eat, consume, devour"
+ },
+ {
+   "word_id": "vrb-eifnz9fgm3zj",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "אָמַר",
+   "English": "to say"
+ },
+ {
+   "word_id": "vrb-l7cpun96658y",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "בּוֹא",
+   "English": "to come, enter"
+ },
+ {
+   "word_id": "vrb-38j21c572j3o",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "בָּנָה",
+   "English": "to build"
+ },
+ {
+   "word_id": "vrb-na2ha3dk88zz",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "גָּלָה",
+   "English": "to uncover, go away, go into exile"
+ },
+ {
+   "word_id": "vrb-ioxgufw9h973",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "הָלַךְ",
+   "English": "to walk, go"
+ },
+ {
+   "word_id": "vrb-fdtiptrzabqr",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "יָדַע",
+   "English": "to know"
+ },
+ {
+   "word_id": "vrb-ye1lwjn06zkh",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "יָלַד",
+   "English": "to bear, beget"
+ },
+ {
+   "word_id": "vrb-igk95avd3ehj",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "יָצָא",
+   "English": "to go out, go forth"
+ },
+ {
+   "word_id": "vrb-due0pmeslfow",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "יָרַד",
+   "English": "to go down, descend"
+ },
+ {
+   "word_id": "vrb-kjb1kz8i5h8a",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "יָשַׁב",
+   "English": "to dwell, sit, remain"
+ },
+ {
+   "word_id": "vrb-skierp4k152a",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "כָּתַב",
+   "English": "to write, record, register"
+ },
+ {
+   "word_id": "vrb-cn129gcx7kyc",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "מָצָה",
+   "English": "to find"
+ },
+ {
+   "word_id": "vrb-80mttsvlgl6f",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "נָטָה",
+   "English": "to stretch out, extend, incline"
+ },
+ {
+   "word_id": "vrb-eqsuo6gb0np3",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "נָתַן",
+   "English": "to give, deliver, set, permit"
+ },
+ {
+   "word_id": "vrb-nq07mvmdvbat",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "עָבַר",
+   "English": "to cross over, pass over, transgress"
+ },
+ {
+   "word_id": "vrb-htjm4mup20gv",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "עָמַד",
+   "English": "to stand, remain, persist"
+ },
+ {
+   "word_id": "vrb-c74coyd4bro8",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "קָרָא",
+   "English": "to call, proclaim; (sometimes to encounter, meet)"
+ },
+ {
+   "word_id": "vrb-9wadjcy4437n",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "רָאָה",
+   "English": "to see"
+ },
+ {
+   "word_id": "vrb-rwhqq1450hsm",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "שָׁאַל",
+   "English": "to ask, inquire"
+ },
+ {
+   "word_id": "vrb-bz0fy2b9x6oo",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "שָׁמַע",
+   "English": "to hear, listen, obey"
+ },
+ {
+   "word_id": "vrb-7dl5i4lxfx51",
+   "Chapter": 8,
+   "Part": "Verb",
+   "Hebrew": "שָׁמַר",
+   "English": "to keep, observe, watch"
+ },
+ {
+   "word_id": "vrb-e2i6eifnz9fg",
+   "Chapter": 9,
+   "Part": "Verb",
+   "Hebrew": "זָבַח",
+   "English": "to slaughter"
+ },
+ {
+   "word_id": "vrb-m3zjl7cpun96",
+   "Chapter": 9,
+   "Part": "Verb",
+   "Hebrew": "כָּרַת",
+   "English": "to cut"
+ },
+ {
+   "word_id": "vrb-658y38j21c57",
+   "Chapter": 9,
+   "Part": "Verb",
+   "Hebrew": "שָׁלַח",
+   "English": "to send, stretch out, let go"
+ },
+ {
+   "word_id": "vrb-2j3ona2ha3dk",
+   "Chapter": 9,
+   "Part": "Verb",
+   "Hebrew": "זָרַע",
+   "English": "to sow"
+ },
+ {
+   "word_id": "vrb-88zzioxgufw9",
+   "Chapter": 10,
+   "Part": "Verb",
+   "Hebrew": "בָּכָה",
+   "English": "to weep"
+ },
+ {
+   "word_id": "vrb-h973fdtiptrz",
+   "Chapter": 10,
+   "Part": "Verb",
+   "Hebrew": "יָרָה",
+   "English": "to teach, instruct, cast"
+ },
+ {
+   "word_id": "vrb-abqrye1lwjn0",
+   "Chapter": 10,
+   "Part": "Verb",
+   "Hebrew": "בָּרָא",
+   "English": "to create"
+ },
+ {
+   "word_id": "vrb-6zkhigk95avd",
+   "Chapter": 10,
+   "Part": "Verb",
+   "Hebrew": "יָצַר",
+   "English": "to form"
+ },
+ {
+   "word_id": "vrb-3ehjdue0pmes",
+   "Chapter": 10,
+   "Part": "Verb",
+   "Hebrew": "מָשַׁל",
+   "English": "to govern, dominate"
+ },
+ {
+   "word_id": "vrb-lfowkjb1kz8i",
+   "Chapter": 10,
+   "Part": "Verb",
+   "Hebrew": "נָפַל",
+   "English": "to fall"
+ },
+ {
+   "word_id": "vrb-5h8askierp4k",
+   "Chapter": 10,
+   "Part": "Verb",
+   "Hebrew": "שָׁכַב",
+   "English": "to lie down"
+ },
+ {
+   "word_id": "vrb-152acn129gcx",
+   "Chapter": 11,
+   "Part": "Verb",
+   "Hebrew": "שׁוּב",
+   "English": "to turn, return"
+ },
+ {
+   "word_id": "vrb-7kyc80mttsvl",
+   "Chapter": 12,
+   "Part": "Verb",
+   "Hebrew": "חָצָה",
+   "English": "to divword_ide"
+ },
+ {
+   "word_id": "vrb-gl6feqsuo6gb",
+   "Chapter": 12,
+   "Part": "Verb",
+   "Hebrew": "נָדַר",
+   "English": "to vow"
+ },
+ {
+   "word_id": "vrb-0np3nq07mvmd",
+   "Chapter": 12,
+   "Part": "Verb",
+   "Hebrew": "חָנָה",
+   "English": "to camp"
+ },
+ {
+   "word_id": "vrb-vbathtjm4mup",
+   "Chapter": 12,
+   "Part": "Verb",
+   "Hebrew": "לֵאמֹר",
+   "English": "(introduces a quotation)"
+ },
+ {
+   "word_id": "vrb-20gvc74coyd4",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "אָבָה",
+   "English": "to be willing, want, consent"
+ },
+ {
+   "word_id": "vrb-bro89wadjcy4",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "שָׁכַן",
+   "English": "to dwell"
+ },
+ {
+   "word_id": "vrb-437nrwhqq145",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "רָעָה",
+   "English": "to tend, feed"
+ },
+ {
+   "word_id": "vrb-0hsmbz0fy2b9",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "זָכַר",
+   "English": "to remember"
+ },
+ {
+   "word_id": "vrb-x6oo7dl5i4lx",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "יָרֵא",
+   "English": "to fear, be afraword_id"
+ },
+ {
+   "word_id": "vrb-fx51e2i6eifn",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "כָּבֵד",
+   "English": "to be[come] weighty, important, rich"
+ },
+ {
+   "word_id": "vrb-z9fgm3zjl7cp",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "לָקַח",
+   "English": "to receive, take"
+ },
+ {
+   "word_id": "vrb-un96658y38j2",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "מָשַׁח",
+   "English": "to anoint"
+ },
+ {
+   "word_id": "vrb-1c572j3ona2h",
+   "Chapter": 13,
+   "Part": "Verb",
+   "Hebrew": "עָזַב",
+   "English": "to abandon, leave, forsake"
+ },
+ {
+   "word_id": "vrb-a3dk88zzioxg",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "אָרֵךְ",
+   "English": "to be long"
+ },
+ {
+   "word_id": "vrb-ufw9h973fdti",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "רָחַב",
+   "English": "to be wword_ide, broad"
+ },
+ {
+   "word_id": "vrb-ptrzabqrye1l",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "בּוֹשׁ",
+   "English": "to be ashamed"
+ },
+ {
+   "word_id": "vrb-wjn06zkhigk9",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "בָּחַר",
+   "English": "to choose"
+ },
+ {
+   "word_id": "vrb-5avd3ehjdue0",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "גּוּר",
+   "English": "to sojourn (live as a resword_ident alien)"
+ },
+ {
+   "word_id": "vrb-fx51e2i6eit1",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "הָיָה",
+   "English": "to be, come to pass, come about, happen"
+ },
+ {
+   "word_id": "vrb-dnst0gcxylp2",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "חָיָה",
+   "English": "to live"
+ },
+ {
+   "word_id": "vrb-81njkimcglxf",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "מוּת",
+   "English": "to die"
+ },
+ {
+   "word_id": "vrb-fqjlfwg20ogu",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "מָלֵא",
+   "English": "to be full"
+ },
+ {
+   "word_id": "vrb-nhrymmddw2au",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "נָשָׂא",
+   "English": "to lift up, raise, bear, forgive"
+ },
+ {
+   "word_id": "vrb-7tamumkgtr7v",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "סוּר",
+   "English": "to turn asword_ide"
+ },
+ {
+   "word_id": "vrb-374cop34brez",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "קוּם",
+   "English": "to arise"
+ },
+ {
+   "word_id": "vrb-9w0ejcyvvuxn",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "שִׂים",
+   "English": "to place, put, set"
+ },
+ {
+   "word_id": "vrb-in8rhsuwq8sd",
+   "Chapter": 14,
+   "Part": "Verb",
+   "Hebrew": "שָׁבַר",
+   "English": "to break"
+ },
+ {
+   "word_id": "vrb-2zr5zs29xxof",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "בִּקֵּשׁ",
+   "English": "to seek"
+ },
+ {
+   "word_id": "vrb-xdmwjvlo6yws",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "בֵּרֵךְ",
+   "English": "to bless (Qal in pass. Part)"
+ },
+ {
+   "word_id": "vrb-42ixeifoq0fg",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "גָּדַל",
+   "English": "to grow up, become great"
+ },
+ {
+   "word_id": "vrb-mtqalycple06",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "גִּדֵּל",
+   "English": "to bring up, raise, make great"
+ },
+ {
+   "word_id": "vrb-659ytyjss368",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "דִּבֶּר",
+   "English": "to speak (may be Qal in participle and infinitive)"
+ },
+ {
+   "word_id": "vrb-2juod13h14dk",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "הִלֵּל",
+   "English": "to praise, boast"
+ },
+ {
+   "word_id": "vrb-z8zq9on7u6wz",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "כָּלָה",
+   "English": "to be complete, be finished"
+ },
+ {
+   "word_id": "vrb-hz73get8pkhp",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "כִּלָּה",
+   "English": "to complete, finish"
+ },
+ {
+   "word_id": "vrb-1bqio51ln9nr",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "כִּסָּה",
+   "English": "to cover, conceal (Qal as participle)"
+ },
+ {
+   "word_id": "vrb-xpbhihk05av4",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "מֵאֵן",
+   "English": "to refuse, reject"
+ },
+ {
+   "word_id": "vrb-3ehjdu50pces",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "מִהַר",
+   "English": "to hurry, hasten"
+ },
+ {
+   "word_id": "vrb-cfpmak11kqzi",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "סָפַר",
+   "English": "to count, write"
+ },
+ {
+   "word_id": "vrb-wiybtbjerfvk",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "סִפֵּר",
+   "English": "to recount, relate, tell"
+ },
+ {
+   "word_id": "vrb-rvt1dnst0gcx",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "פָּעַל",
+   "English": "to work, perform, accomplish"
+ },
+ {
+   "word_id": "vrb-ylp281njkimc",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "צִוָּה",
+   "English": "to command, charge, appoint"
+ },
+ {
+   "word_id": "vrb-glxffqjlfwg2",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "קָדַשׁ",
+   "English": "to be holy, consecrated"
+ },
+ {
+   "word_id": "vrb-0ogunhrymmdd",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "קִדֵּשׁ",
+   "English": "to sanctify, consecrate"
+ },
+ {
+   "word_id": "vrb-w2au7tamumkg",
+   "Chapter": 15,
+   "Part": "Verb",
+   "Hebrew": "שֵׁרֵת",
+   "English": "to serve, minister"
+ },
+ {
+   "word_id": "vrb-tr7v374cop34",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "פָּתַח",
+   "English": "to open"
+ },
+ {
+   "word_id": "vrb-brez9w0ejcyv",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "רָכַב",
+   "English": "to rword_ide, mount"
+ },
+ {
+   "word_id": "vrb-vuxnin8rhsuw",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "דָּרַשׁ",
+   "English": "to inquire, demand"
+ },
+ {
+   "word_id": "vrb-q8sd2zr5zs29",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הָרַג",
+   "English": "to kill"
+ },
+ {
+   "word_id": "vrb-xxofxdmwjvlo",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "יָטַב",
+   "English": "to do well, please, suit"
+ },
+ {
+   "word_id": "vrb-6yws42ixeifo",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הֵיטִיב",
+   "English": "to make good, treat well"
+ },
+ {
+   "word_id": "vrb-q0fgmtqalycp",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הוֹשִׁיעַ",
+   "English": "to save"
+ },
+ {
+   "word_id": "vrb-le06659ytyjs",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הִגִּיד",
+   "English": "to tell, announce, report"
+ },
+ {
+   "word_id": "vrb-s3682juod13h",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "נָחַל",
+   "English": "to inherit, possess"
+ },
+ {
+   "word_id": "vrb-14dkz8zq9on7",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הִנְחִיל",
+   "English": "to bequeath, assign inheritance"
+ },
+ {
+   "word_id": "vrb-u6wzhz73get8",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "נָטַע",
+   "English": "to plant"
+ },
+ {
+   "word_id": "vrb-pkhp1bqio51l",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הִכָּה",
+   "English": "to strike, smite, defeat"
+ },
+ {
+   "word_id": "vrb-n9nrxpbhihk0",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הִצִּיל",
+   "English": "to rescue, snatch, deliver"
+ },
+ {
+   "word_id": "vrb-5av43ehjdu50",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "צָעַק",
+   "English": "to cry out"
+ },
+ {
+   "word_id": "vrb-pcescfpmak11",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "רָבָה",
+   "English": "to become great, numerous"
+ },
+ {
+   "word_id": "vrb-kqziwiybtbje",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "רִבָּה",
+   "English": "to increase, bring up"
+ },
+ {
+   "word_id": "vrb-rfvkrvt1dnst",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הִרְבָּה",
+   "English": "to multiply, increase"
+ },
+ {
+   "word_id": "vrb-0gcxylp281nj",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "שִׁחֵת",
+   "English": "to ruin, destroy"
+ },
+ {
+   "word_id": "vrb-kimcglxffqjl",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "הִשְׁחִית",
+   "English": "to ruin, destroy"
+ },
+ {
+   "word_id": "vrb-fwg20ogunhry",
+   "Chapter": 16,
+   "Part": "Verb",
+   "Hebrew": "שָׁתָה",
+   "English": "to drink"
+ },
+ {
+   "word_id": "vrb-mmddw2au7tam",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "בָּטַח",
+   "English": "to trust"
+ },
+ {
+   "word_id": "vrb-umkgtr7v374c",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "הִבְטִיחַ",
+   "English": "to make secure"
+ },
+ {
+   "word_id": "vrb-op34brez9w0e",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "בָּרַח",
+   "English": "to flee"
+ },
+ {
+   "word_id": "vrb-jcyvvuxnin8r",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "לָבַשׁ",
+   "English": "to clothe"
+ },
+ {
+   "word_id": "vrb-hsuwq8sd2zr5",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "לָבֵשׁ",
+   "English": "to be clothed"
+ },
+ {
+   "word_id": "vrb-zs29xxofxdmw",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "לָמַד",
+   "English": "to learn"
+ },
+ {
+   "word_id": "vrb-jvlo6yws42ix",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "לִמֵּד",
+   "English": "to teach"
+ },
+ {
+   "word_id": "vrb-eifoq0fgmtqa",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "מִלֵּט",
+   "English": "to save, let (one) escape"
+ },
+ {
+   "word_id": "vrb-lycple06659y",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "עָנָה",
+   "English": "to answer, reply"
+ },
+ {
+   "word_id": "vrb-tyjss3682juo",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "שָׂנֵא",
+   "English": "to hate"
+ },
+ {
+   "word_id": "vrb-d13h14dkz8zq",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "שָׁבַר",
+   "English": "to break"
+ },
+ {
+   "word_id": "vrb-9on7u6wzhz73",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "שָׁכַח",
+   "English": "to forget"
+ },
+ {
+   "word_id": "vrb-get8pkhp1bqi",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "שָׁכֵחַ",
+   "English": "to forget"
+ },
+ {
+   "word_id": "vrb-o51ln9nrxpbh",
+   "Chapter": 17,
+   "Part": "Verb",
+   "Hebrew": "רָחַק",
+   "English": "to be far"
+ },
+ {
+   "word_id": "vrb-ihk05av43ehj",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "בָּלַע",
+   "English": "to swallow"
+ },
+ {
+   "word_id": "vrb-du50pcescfpm",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "בָּעַר",
+   "English": "to burn, consume"
+ },
+ {
+   "word_id": "vrb-ak11kqziwiyb",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "גָּאַל",
+   "English": "to redeem"
+ },
+ {
+   "word_id": "vrb-tbjerfvkrvt1",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "זָעַק",
+   "English": "to cry out"
+ },
+ {
+   "word_id": "vrb-qigcom2ry208",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "יָדָה",
+   "English": "to throw"
+ },
+ {
+   "word_id": "vrb-jkz07nau5sw9",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "הוֹדָה",
+   "English": "to confess, give thanks"
+ },
+ {
+   "word_id": "vrb-f8tqrptiej4m",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "כָּפַר",
+   "English": "to cover"
+ },
+ {
+   "word_id": "vrb-cnqsm3n9yvn1",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "כִּפֶּר",
+   "English": "to cover, atone"
+ },
+ {
+   "word_id": "vrb-uox5tskat8hr",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "פָּקַד",
+   "English": "to visit, appoint, inspect"
+ },
+ {
+   "word_id": "vrb-eqhj1trn0ydt",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "קָבַץ",
+   "English": "to gather"
+ },
+ {
+   "word_id": "vrb-aebjlwabipl6",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "קָבַר",
+   "English": "to bury"
+ },
+ {
+   "word_id": "vrb-gt7lh9v2214u",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "קִטֵּר",
+   "English": "to burn incense"
+ },
+ {
+   "word_id": "vrb-pufonz13xfpk",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "הִקְטִיר",
+   "English": "to burn incense"
+ },
+ {
+   "word_id": "vrb-9wycwz9gv4vm",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "רָדַף",
+   "English": "to pursue, follow"
+ },
+ {
+   "word_id": "vrb-4kj2q2svdv3y",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "שָׂמַח",
+   "English": "to rejoice, be happy"
+ },
+ {
+   "word_id": "vrb-b9p4lgdlx7md",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "שִׂמַּח",
+   "English": "to gladden"
+ },
+ {
+   "word_id": "vrb-k0xhi5jmsl7d",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "שָׂרַף",
+   "English": "to burn"
+ },
+ {
+   "word_id": "vrb-dcgw05qzzade",
+   "Chapter": 18,
+   "Part": "Verb",
+   "Hebrew": "שָׁפַךְ",
+   "English": "to pour out"
+ },
+ {
+   "word_id": "vrb-9q1vk89o7bki",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "חָנַן",
+   "English": "to be gracious, favour"
+ },
+ {
+   "word_id": "vrb-6fxxgmuerdu6",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "יָעַץ",
+   "English": "to advise"
+ },
+ {
+   "word_id": "vrb-o6eanbrfnrow",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "אָבַד",
+   "English": "to perish"
+ },
+ {
+   "word_id": "vrb-8iopvc8sugly",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "אִבַּד",
+   "English": "to destroy"
+ },
+ {
+   "word_id": "vrb-3wiffeh7chsb",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "אָחַז",
+   "English": "to seize"
+ },
+ {
+   "word_id": "vrb-alegbscxwjbq",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "אָמַן",
+   "English": "to confirm, support"
+ },
+ {
+   "word_id": "vrb-jcmthh88rx6p",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "הֶאֱמִין",
+   "English": "to believe, trust"
+ },
+ {
+   "word_id": "vrb-3o5iqigcom2r",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "אָסַר",
+   "English": "to bind"
+ },
+ {
+   "word_id": "vrb-y208jkz07nau",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "חָדַל",
+   "English": "to cease, stop"
+ },
+ {
+   "word_id": "vrb-5sw9f8tqrpti",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "חָלַק",
+   "English": "to divword_ide, apportion"
+ },
+ {
+   "word_id": "vrb-ej4mcnqsm3n9",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "חָפֵץ",
+   "English": "to delight, desire"
+ },
+ {
+   "word_id": "vrb-yvn1uox5tska",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "חָשַׁב",
+   "English": "to think, reckon"
+ },
+ {
+   "word_id": "vrb-t8hreqhj1trn",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "יָכֹל",
+   "English": "to be able, prevail"
+ },
+ {
+   "word_id": "vrb-0ydtaebjlwab",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "יָרַשׁ",
+   "English": "to possess, dispossess"
+ },
+ {
+   "word_id": "vrb-ipl6gt7lh9v2",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "נוּס",
+   "English": "to flee"
+ },
+ {
+   "word_id": "vrb-214upufonz13",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "נָסַע",
+   "English": "to set out, travel, depart"
+ },
+ {
+   "word_id": "vrb-xfpk9wycwz9g",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "קָרַב",
+   "English": "to approach, draw near"
+ },
+ {
+   "word_id": "vrb-v4vm4kj2q2sv",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "רוּץ",
+   "English": "to run"
+ },
+ {
+   "word_id": "vrb-dv3yb9p4lgdl",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "שָׁאַר",
+   "English": "to remain, be left over"
+ },
+ {
+   "word_id": "vrb-x7mdk0xhi5jm",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "שָׁלֵם",
+   "English": "to be whole, healthy, complete, at peace"
+ },
+ {
+   "word_id": "vrb-sl7ddcgw05qz",
+   "Chapter": 19,
+   "Part": "Verb",
+   "Hebrew": "שִׁלֵּם",
+   "English": "to make whole, make amends, recompense"
+ },
+ {
+   "word_id": "vrb-zade9q1vk89o",
+   "Chapter": 20,
+   "Part": "Verb",
+   "Hebrew": "אָבַד",
+   "English": "to perish"
+ },
+ {
+   "word_id": "vrb-7bki6fxxgmue",
+   "Chapter": 20,
+   "Part": "Verb",
+   "Hebrew": "בָּקַע",
+   "English": "to split"
+ },
+ {
+   "word_id": "vrb-rdu6o6eanbrf",
+   "Chapter": 20,
+   "Part": "Verb",
+   "Hebrew": "זָנָה",
+   "English": "to act like a prostitute, be promiscuous"
+ },
+ {
+   "word_id": "vrb-nrow8iopvc8s",
+   "Chapter": 20,
+   "Part": "Verb",
+   "Hebrew": "חָזָה",
+   "English": "to see (a vision)"
+ },
+ {
+   "word_id": "vrb-ugly3wiffeh7",
+   "Chapter": 20,
+   "Part": "Verb",
+   "Hebrew": "חָשַׂךְ",
+   "English": "to restrain, withhold"
+ },
+ {
+   "word_id": "vrb-chsbalegbscx",
+   "Chapter": 20,
+   "Part": "Verb",
+   "Hebrew": "מָאַס",
+   "English": "to reject"
+ },
+ {
+   "word_id": "vrb-wjbqjcmthh88",
+   "Chapter": 20,
+   "Part": "Verb",
+   "Hebrew": "נָגַע",
+   "English": "to touch, strike"
+ },
+ {
+   "word_id": "vrb-rx6p3o5iqigc",
+   "Chapter": 20,
+   "Part": "Verb",
+   "Hebrew": "צוּם",
+   "English": "to fast"
+ },
+ {
+   "word_id": "vrb-om2ry208jkz0",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "חֲלַם",
+   "English": "to dream"
+ },
+ {
+   "word_id": "vrb-7nau5sw9f8tq",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "אָסַף",
+   "English": "to gather, remove"
+ },
+ {
+   "word_id": "vrb-rptiej4mcnqs",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "טָהֵר",
+   "English": "to be clean"
+ },
+ {
+   "word_id": "vrb-m3n9yvn1uox5",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "יָהַב",
+   "English": "to give, ascribe"
+ },
+ {
+   "word_id": "vrb-tskat8hreqhj",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "יָצַק",
+   "English": "to pour out"
+ },
+ {
+   "word_id": "vrb-1trn0ydtaebj",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "כָּבַס",
+   "English": "to wash, clean"
+ },
+ {
+   "word_id": "vrb-lwabipl6gt7l",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "כָּשַׁל",
+   "English": "to stumble"
+ },
+ {
+   "word_id": "vrb-h9v2214upufo",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "נוּחַ",
+   "English": "to rest"
+ },
+ {
+   "word_id": "vrb-nz13xfpk9wyc",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "נָצַר",
+   "English": "to watch"
+ },
+ {
+   "word_id": "vrb-wz9gv4vm4kj2",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "שִׁיר",
+   "English": "to sing"
+ },
+ {
+   "word_id": "vrb-q2svdv3yb9p4",
+   "Chapter": 21,
+   "Part": "Verb",
+   "Hebrew": "שִׁית",
+   "English": "to put, set"
+ },
+ {
+   "word_id": "vrb-lgdlx7mdk0xh",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "בִּין",
+   "English": "to understand, perceive"
+ },
+ {
+   "word_id": "vrb-i5jmsl7ddcgw",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "בָּעַל",
+   "English": "to rule, lord, marry"
+ },
+ {
+   "word_id": "vrb-05qzzade9q1v",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "צָרַר",
+   "English": "to be hard pressed, be in distress"
+ },
+ {
+   "word_id": "vrb-k89o7bki6fxx",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "רַחֵם",
+   "English": "to have compassion"
+ },
+ {
+   "word_id": "vrb-gmuerdu6o6ea",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "רִיב",
+   "English": "to dispute, be in law-suit"
+ },
+ {
+   "word_id": "vrb-nbrfnrow8iop",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "זוּר",
+   "English": "to be a stranger"
+ },
+ {
+   "word_id": "vrb-vc8sugly3wif",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "חָגַר",
+   "English": "to gird"
+ },
+ {
+   "word_id": "vrb-feh7chsbaleg",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "טָמֵא",
+   "English": "to be unclean"
+ },
+ {
+   "word_id": "vrb-bscxwjbqjcmt",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "יָסַף",
+   "English": "to add"
+ },
+ {
+   "word_id": "vrb-hh88rx6p3o5i",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "הוֹסִיף",
+   "English": "to continue, increase"
+ },
+ {
+   "word_id": "vrb-yqokwuaz6a8g",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "יָסַר",
+   "English": "to discipline, chasten"
+ },
+ {
+   "word_id": "vrb-rs78fvi2d04h",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "יָרָה",
+   "English": "to throw, cast"
+ },
+ {
+   "word_id": "vrb-ng1yyx1qmrcu",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "הוֹרָה",
+   "English": "to throw, teach, point"
+ },
+ {
+   "word_id": "vrb-kvy0ubvh63v9",
+   "Chapter": 22,
+   "Part": "Verb",
+   "Hebrew": "קָנָה",
+   "English": "to acquire, buy, create"
+ },
+ {
+   "word_id": "vrb-2w5d10si1gpz",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "הָפַךְ",
+   "English": "to turn, overturn"
+ },
+ {
+   "word_id": "vrb-myor91zv86l1",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "יָבֵשׁ",
+   "English": "to be dry"
+ },
+ {
+   "word_id": "vrb-imjrt3ijqxtd",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "הוֹכִיחַ",
+   "English": "to reprove"
+ },
+ {
+   "word_id": "vrb-o1ftph3aa9c2",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "כָּעַס",
+   "English": "to be irritated, angry"
+ },
+ {
+   "word_id": "vrb-x2nwv79b5nxs",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "לִין",
+   "English": "to lodge"
+ },
+ {
+   "word_id": "vrb-h46k47ho2c3t",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "לוּן",
+   "English": "to lodge"
+ },
+ {
+   "word_id": "vrb-csraya03l3b6",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "לָכַד",
+   "English": "to capture"
+ },
+ {
+   "word_id": "vrb-jhxctnlt5ful",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "פָּגַע",
+   "English": "to meet, befall, encounter"
+ },
+ {
+   "word_id": "vrb-s85pqdru0tfl",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "פָּדָה",
+   "English": "to ransom"
+ },
+ {
+   "word_id": "vrb-lko48dy77ilm",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "פָּרַץ",
+   "English": "to break, breach, increase"
+ },
+ {
+   "word_id": "vrb-hy83sghwfjsq",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "פָּרַשׂ",
+   "English": "to spread out"
+ },
+ {
+   "word_id": "vrb-en55ou2mzl2e",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "צָלַח",
+   "English": "to succeed, prosper"
+ },
+ {
+   "word_id": "vrb-wemivjznvzw4",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "הִצְלִיחַ",
+   "English": "to make prosperous"
+ },
+ {
+   "word_id": "vrb-gqwx3kg02os6",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "קָרַע",
+   "English": "to rend, tear"
+ },
+ {
+   "word_id": "vrb-b4qnnmpfkp0j",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "רָפָא",
+   "English": "to heal"
+ },
+ {
+   "word_id": "vrb-itmoi0k54rjx",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "רָצָה",
+   "English": "to be pleased"
+ },
+ {
+   "word_id": "vrb-rku1ppggz5ex",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "רָצַח",
+   "English": "to murder, slay"
+ },
+ {
+   "word_id": "vrb-bwdqyqokwuaz",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "שָׂחַק",
+   "English": "to laugh"
+ },
+ {
+   "word_id": "vrb-6a8grs78fvi2",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "צָחַק",
+   "English": "to laugh"
+ },
+ {
+   "word_id": "vrb-d04hng1yyx1q",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "שִׂחֵק",
+   "English": "to play, make fun of"
+ },
+ {
+   "word_id": "vrb-mrcukvy0ubvh",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "צִחֵק",
+   "English": "to play, make fun of"
+ },
+ {
+   "word_id": "vrb-63v92w5d10si",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "הִשְׁכִּים",
+   "English": "to do something early, arise early"
+ },
+ {
+   "word_id": "vrb-1gpzmyor91zv",
+   "Chapter": 23,
+   "Part": "Verb",
+   "Hebrew": "תָּפַשׂ",
+   "English": "to catch, seize"
+ },
+ {
+   "word_id": "vrb-86l1imjrt3ij",
+   "Chapter": 24,
+   "Part": "Verb",
+   "Hebrew": "גָּאָה",
+   "English": "to be proud, arrogant"
+ },
+ {
+   "word_id": "vrb-qxtdo1ftph3a",
+   "Chapter": 24,
+   "Part": "Verb",
+   "Hebrew": "קָהַל",
+   "English": "to assemble"
+ },
+ {
+   "word_id": "vrb-a9c2x2nwv79b",
+   "Chapter": 24,
+   "Part": "Verb",
+   "Hebrew": "חָרָה",
+   "English": "to be(come) angry"
+ },
+ {
+   "word_id": "vrb-5nxsh46k47ho",
+   "Chapter": 24,
+   "Part": "Verb",
+   "Hebrew": "נָגַשׁ",
+   "English": "to draw near, approach"
+ },
+ {
+   "word_id": "vrb-2c3tcsraya03",
+   "Chapter": 24,
+   "Part": "Verb",
+   "Hebrew": "נָשַׁק",
+   "English": "to kiss"
+ },
+ {
+   "word_id": "vrb-l3b6jhxctnlt",
+   "Chapter": 24,
+   "Part": "Verb",
+   "Hebrew": "הֵעִיד",
+   "English": "to bear witness, testify"
+ },
+ {
+   "word_id": "vrb-5fuls85pqdru",
+   "Chapter": 24,
+   "Part": "Verb",
+   "Hebrew": "קִנֵּא",
+   "English": "to be jealous, zealous"
+ },
+ {
+   "word_id": "vrb-0tfllko48dy7",
+   "Chapter": 25,
+   "Part": "Verb",
+   "Hebrew": "רוּם",
+   "English": "to be high"
+ },
+ {
+   "word_id": "vrb-7ilmhy83sghw",
+   "Chapter": 25,
+   "Part": "Verb",
+   "Hebrew": "הָגָה",
+   "English": "to mumble, meditate"
+ },
+ {
+   "word_id": "vrb-fjsqen55ou2m",
+   "Chapter": 25,
+   "Part": "Verb",
+   "Hebrew": "נִחַם",
+   "English": "to regret (niphal), to comfort (piel)"
+ },
+ {
+   "word_id": "vrb-zl2ewemivjzn",
+   "Chapter": 25,
+   "Part": "Verb",
+   "Hebrew": "סָלַח",
+   "English": "to forgive"
+ },
+ {
+   "word_id": "vrb-vzw4gqwx3kg0",
+   "Chapter": 25,
+   "Part": "Verb",
+   "Hebrew": "עָרַךְ",
+   "English": "to arrange, lay out"
+ },
+ {
+   "word_id": "vrb-2os6b4qnnmpf",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "הֶחֱרִים",
+   "English": "to devote to the ban, utterly destroy"
+ },
+ {
+   "word_id": "vrb-kp0jitmoi0k5",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "יָנַק",
+   "English": "to suckle"
+ },
+ {
+   "word_id": "vrb-4rjxrku1ppgg",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "יָתַר",
+   "English": "to remain"
+ },
+ {
+   "word_id": "vrb-z5exbwdqyqok",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "נוֹתַר",
+   "English": "to be left"
+ },
+ {
+   "word_id": "vrb-wuaz6a8grs78",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "נָכוֹן",
+   "English": "to be prepared, established, firm"
+ },
+ {
+   "word_id": "vrb-fvi2d04hng1y",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "הֵכִין",
+   "English": "to prepare, install, establish"
+ },
+ {
+   "word_id": "vrb-yx1qmrcukvy0",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "לָחַם",
+   "English": "to do battle"
+ },
+ {
+   "word_id": "vrb-ubvh63v92w5d",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "נִלְחַם",
+   "English": "to fight"
+ },
+ {
+   "word_id": "vrb-10si1gpzmyor",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "נִבָּא",
+   "English": "to prophesy"
+ },
+ {
+   "word_id": "vrb-91zv86l1imjr",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "נִדַּח",
+   "English": "to be scattered, go astray"
+ },
+ {
+   "word_id": "vrb-t3ijqxtdo1ft",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "הִדִּיחַ",
+   "English": "to scatter, disperse"
+ },
+ {
+   "word_id": "vrb-ph3aa9c2x2nw",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "נִסְתַּר",
+   "English": "to hword_ide oneself, be hword_idden"
+ },
+ {
+   "word_id": "vrb-v79b5nxsh46k",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "הִסְתִּיר",
+   "English": "to hword_ide"
+ },
+ {
+   "word_id": "vrb-47ho2c3tcsra",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "פּוּץ",
+   "English": "to be dispersed, scattered"
+ },
+ {
+   "word_id": "vrb-ya03l3b6jhxc",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "נִפְלָא",
+   "English": "to be marvellous, extraordinary"
+ },
+ {
+   "word_id": "vrb-tnlt5fuls85p",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "קָרָה",
+   "English": "to encounter, meet"
+ },
+ {
+   "word_id": "vrb-qdru0tfllko4",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "נִשְׁמַד",
+   "English": "to be exterminated"
+ },
+ {
+   "word_id": "vrb-8dy77ilmhy83",
+   "Chapter": 26,
+   "Part": "Verb",
+   "Hebrew": "הִשְׁמִיד",
+   "English": "to exterminate"
+ },
+ {
+   "word_id": "vrb-sghwfjsqen55",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "קָצַר",
+   "English": "to harvest"
+ },
+ {
+   "word_id": "vrb-ou2mzl2ewemi",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "נִחָל",
+   "English": "to be profaned"
+ },
+ {
+   "word_id": "vrb-vjznvzw4gqwx",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "חִלֵּל",
+   "English": "to profane"
+ },
+ {
+   "word_id": "vrb-3kg02os6b4qn",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "הֵחֵל",
+   "English": "to begin"
+ },
+ {
+   "word_id": "vrb-nmpfkp0jitmo",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "חָסָה",
+   "English": "to seek refuge"
+ },
+ {
+   "word_id": "vrb-i0k54rjxrku1",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "הִתְיַצֵּב",
+   "English": "to position oneself, stand"
+ },
+ {
+   "word_id": "vrb-ppggz5exbwdq",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "נִכְחַד",
+   "English": "to be hword_idden, effaced"
+ },
+ {
+   "word_id": "vrb-vhxasaword_idqeuj",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "כִּחֵד",
+   "English": "to hword_ide"
+ },
+ {
+   "word_id": "vrb-qus0cmrszfbw",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "הִכְחִיד",
+   "English": "to hword_ide"
+ },
+ {
+   "word_id": "vrb-xko170mijhlb",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "נִכַּר",
+   "English": "to be recognised"
+ },
+ {
+   "word_id": "vrb-fkweepikevf1",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "הִכִּיר",
+   "English": "to recognise, acknowledge"
+ },
+ {
+   "word_id": "vrb-znftmgqxllcc",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "נִצַּב",
+   "English": "to stand"
+ },
+ {
+   "word_id": "vrb-v19t6s9ltljf",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "קָלַל",
+   "English": "to be slight, swift"
+ },
+ {
+   "word_id": "vrb-sq6u263bno23",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "קִלֵּל",
+   "English": "to curse"
+ },
+ {
+   "word_id": "vrb-aqdy8vzdibxu",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "שָׂבַע",
+   "English": "to be satisfied, satiated"
+ },
+ {
+   "word_id": "vrb-utwmhm7qgrtv",
+   "Chapter": 27,
+   "Part": "Verb",
+   "Hebrew": "נִשׁבַּע",
+   "English": "to swear"
+ },
+ {
+   "word_id": "vrb-p7rc1yq4yr18",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "אָרַר",
+   "English": "to curse"
+ },
+ {
+   "word_id": "vrb-wwnewclviukn",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "בָּלַל",
+   "English": "to mix, confound"
+ },
+ {
+   "word_id": "vrb-5xvr31hwdhen",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "דָּמַם",
+   "English": "to be silent"
+ },
+ {
+   "word_id": "vrb-pzeflsp9kxbo",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "חָתַת",
+   "English": "to be shattered, be dismayed"
+ },
+ {
+   "word_id": "vrb-kdz5548xsxir",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "מָדַד",
+   "English": "to measure"
+ },
+ {
+   "word_id": "vrb-r2571itnc02g",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "סָבַב",
+   "English": "to surround, go around, turn"
+ },
+ {
+   "word_id": "vrb-03cjy7yp8nm6",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "פָּלַט",
+   "English": "to escape"
+ },
+ {
+   "word_id": "vrb-t5vygy62fds7",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "פִּלֵּט",
+   "English": "to bring to safety"
+ },
+ {
+   "word_id": "vrb-ojgo0aphn40k",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "הִפְלִיט",
+   "English": "to bring to safety"
+ },
+ {
+   "word_id": "vrb-m8mqwoaghgjz",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "הִפְרִיר",
+   "English": "to break, frustrate"
+ },
+ {
+   "word_id": "vrb-49u32dgict4z",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "רָנַן",
+   "English": "to jubilate, shout for joy"
+ },
+ {
+   "word_id": "vrb-obdrbeol9j00",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "רָעַע",
+   "English": "to be bad, evil"
+ },
+ {
+   "word_id": "vrb-jpyhvhxasaword_id",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "הִרְעִיע",
+   "English": "to act wickedly, do mischief"
+ },
+ {
+   "word_id": "vrb-qeujqus0cmrs",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "שָׁדַד",
+   "English": "to destroy, devastate"
+ },
+ {
+   "word_id": "vrb-zfbwxko170mi",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "שָׁמַם",
+   "English": "to be desolate, be appalled"
+ },
+ {
+   "word_id": "vrb-jhlbfkweepik",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "הִשְׁקָה",
+   "English": "give drink, irrigate"
+ },
+ {
+   "word_id": "vrb-evf1znftmgqx",
+   "Chapter": 28,
+   "Part": "Verb",
+   "Hebrew": "תָּמַם",
+   "English": "to be complete, be whole, be finished"
+ },
+ {
+   "word_id": "vrb-llccv19t6s9l",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "גָּלַל",
+   "English": "to roll"
+ },
+ {
+   "word_id": "vrb-tljfsq6u263b",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "שָׂכַר",
+   "English": "to hire"
+ },
+ {
+   "word_id": "vrb-no23aqdy8vzd",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "גָּרַשׁ",
+   "English": "to drive out"
+ },
+ {
+   "word_id": "vrb-ibxuutwmhm7q",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "חָבַשׁ",
+   "English": "to bind, gird"
+ },
+ {
+   "word_id": "vrb-grtvp7rc1yq4",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "הִבִּיט",
+   "English": "to gaze, look"
+ },
+ {
+   "word_id": "vrb-yr18wwnewclv",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "נָקָה",
+   "English": "to be free, innocent"
+ },
+ {
+   "word_id": "vrb-iukn5xvr31hw",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "הִתְפַּלֵּל",
+   "English": "to pray"
+ },
+ {
+   "word_id": "vrb-dhenpzeflsp9",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "רָחַץ",
+   "English": "to wash"
+ },
+ {
+   "word_id": "vrb-kxbokdz5548x",
+   "Chapter": 29,
+   "Part": "Verb",
+   "Hebrew": "שִׁוַּע",
+   "English": "to cry out for help"
+ },
+ {
+   "word_id": "vrb-sxirr2571itn",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "זִמֵּר",
+   "English": "to make melody"
+ },
+ {
+   "word_id": "vrb-c02g03cjy7yp",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "עוּף",
+   "English": "to fly"
+ },
+ {
+   "word_id": "vrb-8nm6t5vygy62",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "אוֹר",
+   "English": "to become bright"
+ },
+ {
+   "word_id": "vrb-fds7ojgo0aph",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "הֵאִיר",
+   "English": "to illumine, shine"
+ },
+ {
+   "word_id": "vrb-n40km8mqwoag",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "בָּחַן",
+   "English": "to test, try"
+ },
+ {
+   "word_id": "vrb-hgjz49u32dgi",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "בִּשֵּׂר",
+   "English": "to make known, bring news"
+ },
+ {
+   "word_id": "vrb-ct4zobdrbeol",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "גִּיל",
+   "English": "to be joyful, rejoice"
+ },
+ {
+   "word_id": "vrb-9j00jpyhvhxa",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "כָּרַע",
+   "English": "to bend the knee"
+ },
+ {
+   "word_id": "vrb-saword_idqeujqus0",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "נוּע",
+   "English": "to shake, tremble"
+ },
+ {
+   "word_id": "vrb-cmrszfbwxko1",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "נִסָּה",
+   "English": "to test"
+ },
+ {
+   "word_id": "vrb-70mijhlbfkwe",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "הֵרִיעַ",
+   "English": "to shout"
+ },
+ {
+   "word_id": "vrb-epikevf1znft",
+   "Chapter": 30,
+   "Part": "Verb",
+   "Hebrew": "תָּעָה",
+   "English": "to wander about, be confused"
+ }
+]

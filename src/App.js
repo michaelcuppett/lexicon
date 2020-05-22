@@ -1,5 +1,6 @@
 import React from 'react';
 import initialState from './initialState.json';
+import { findEnglishResults, findHebrewResults } from './functions/search';
 import { translateToHebrew } from './utilities';
 
 import { Header } from './ui/Header';
@@ -42,31 +43,45 @@ export default class App extends React.Component {
   getResults = (e) => {
     const input = e.target.value;
     const translatedInput = translateToHebrew(input);
-    const url = "http://localhost:1337/words?";
+    // const url = "http://localhost:1337/words?";
     const limit = 10;
+    var matches;
 
     // Add input query in the state.
     this.setState({
       searchInput: input,
     })
 
-    // Fetch English results and add results to state
-    fetch(url + "English_contains=" + input + "&_limit=" + limit)
-      .then (response => response.json())
-      .then(data => this.setResultState(data, "englishResults"))
-      .catch(err => console.log(err));
-
-    // Fetch Hebrew results and add results to state
-    fetch(url + "Simplified_Hebrew_contains=" + translatedInput + "&_limit=" + limit)
-    .then (response => response.json())
-    .then(data => this.setResultState(data, "hebrewResults"))
-    .catch(err => console.log(err));
+    if (this.state.viewLanguage === "english") {
+      matches = findEnglishResults(input, limit);
+      this.setResultState(matches, "englishResults");
+    }
 
     if (this.state.viewLanguage === "hebrew") {
+      matches = findHebrewResults(translatedInput, limit);
+      this.setResultState(matches, "hebrewResults");
       this.setState({
         searchInput: translatedInput
       })
     }
+
+    // // Fetch English results and add results to state
+    // fetch(url + "English_contains=" + input + "&_limit=" + limit)
+    //   .then (response => response.json())
+    //   .then(data => this.setResultState(data, "englishResults"))
+    //   .catch(err => console.log(err));
+
+    // Fetch Hebrew results and add results to state
+    // fetch(url + "Simplified_Hebrew_contains=" + translatedInput + "&_limit=" + limit)
+    // .then (response => response.json())
+    // .then(data => this.setResultState(data, "hebrewResults"))
+    // .catch(err => console.log(err));
+    //
+    // if (this.state.viewLanguage === "hebrew") {
+    //   this.setState({
+    //     searchInput: translatedInput
+    //   })
+    // }
   }
 
   openHelpbox = () => {
@@ -83,7 +98,7 @@ export default class App extends React.Component {
 
   async handleTogglePin(e) {
     var currentPins = this.state.pinnedEntryIds;
-    var pin = e.target.parentNode.parentNode.parentNode.parentNode;
+    var pin = e.target;
     var pinId = pin.id;
 
     var newPins = {};
@@ -119,6 +134,7 @@ export default class App extends React.Component {
   }
 
   componentDidUpdate() {
+    // console.log(this.state.viewLanguage);
     applyPinStyles(this.state.pinnedEntryIds, this.state.englishResults, this.state.hebrewResults);
   }
 
@@ -139,7 +155,7 @@ export default class App extends React.Component {
               <SearchContainer value={this.state.searchInput} handler={this.getResults} toggleHelpbox={this.state.toggleHelpbox} openHelpbox={this.openHelpbox}/>
               <PinContainer viewType={this.state.viewType} togglePins={this.state.togglePins} pinnedObjects={this.state.pinnedObjects} openPins={this.openPins} handleTogglePin={this.handleTogglePin}/>
             </div>
-            <ResultsContainer viewType={this.state.viewType} handleView={this.handleView} englishResults={this.state.englishResults} hebrewResults={this.state.hebrewResults} handleTogglePin={this.handleTogglePin}/>
+            <ResultsContainer viewType={this.state.viewType} viewLanguage={this.state.viewLanguage} handleView={this.handleView} englishResults={this.state.englishResults} hebrewResults={this.state.hebrewResults} handleTogglePin={this.handleTogglePin}/>
           </div>
 
           <Footer />

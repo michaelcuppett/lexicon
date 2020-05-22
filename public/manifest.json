@@ -3,15 +3,15 @@
   "name": "Seow Hebrew Lexicon | Search C.L. Seow Vocab",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "assets/favicon.png",
       "sizes": "350x350",
       "type": "image/png"
     },
     {
-      "src": "thumbnail.png",
+      "src": "assets/thumbnail.png",
       "type": "image/png",
       "sizes": "1200x628"
-    },
+    }
   ],
   "start_url": ".",
   "display": "standalone",

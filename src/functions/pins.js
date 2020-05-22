@@ -1,3 +1,5 @@
+import Dataset from '../data.json';
+
 export function applyPinStyles(pins, englishResults, hebrewResults) {
   var results;
   if (typeof englishResults !== "undefined" && typeof hebrewResults !== "undefined") {
@@ -35,21 +37,20 @@ export function newPinIdSet(array, pinId) {
 }
 
 export function fetchPins(pinIds, currentPins) {
-  var url = "http://localhost:1337/words?";
   var i;
+  var matches = [];
 
-  for (i=0; i < pinIds.length; i++) {
-    url += `word_id_in=${pinIds[i]}&`;
+  function matchWordId(pinIds, index) {
+    var match = Dataset.filter(entry => pinIds[index] === entry.word_id);
+    return match[0];
   }
 
-  url = url.slice(0, url.length - 1);
+  for (i=0; i < pinIds.length; i++) {
+    var obj = matchWordId(pinIds, i);
+    matches = [...matches, obj];
+  }
 
-  return new Promise (resolve => {
-    var response = fetch(url)
-      .then(response => response.json())
-      .catch(err => err)
-    resolve(response);
-  });
+  return matches
 }
 
 export async function addPin(pinId, currentPins) {

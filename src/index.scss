@@ -119,40 +119,45 @@ button {
   }
 
   .pin-container {
+    position: relative;
     width: 20%;
     border: none;
     background: none;
 
+    /* .pin-button::after {
+      position: absolute;
+      width: 1rem;
+      height: 1rem;
+      left: 0.5rem;
+      top: 0.5rem;
+      content: url('/assets/plus.svg');
+    } */
+
     .pin-button {
-      background: $accent-color-primary;
+      display: block;
+      color: #ffffff;
       border: none;
-      border-radius: 300px;
-      font-size: 1.2rem;
-      display: flex;
-      margin: auto;
       position: relative;
-      width: 2rem;
-      height: 2rem;
-      align-items: center;
-    }
-
-    .pin-button svg {
-      stroke: $accent-color-primary;
-      stroke-width: 5%;
-      fill: #fff;
-      transition: 0.1s;
+      content: "+";
+      font-size: 2rem;
+      background-color: $accent-color-primary;
+      border-radius: 300px;
+      width: 2.5rem;
+      height: 2.5rem;
       margin: auto;
+      padding: 0px 0px 0.4rem 0px;
+      line-height: 0%;
+      top: -5px;
+      transition: 0.1s;
     }
-
-
   }
 
-  .pin-container:focus {
+  .pin-button:focus {
     outline: none;
   }
 
-  .pin-container:focus .pin-button {
-    box-shadow: 0 0 5px 0px #000000;
+  .pin-button:focus {
+    box-shadow: 0 0px 5px 0px #000000;
     border-radius: 100%;
   }
 }
@@ -168,11 +173,12 @@ button {
   }
 
   .pin-button {
+    color: #000000;
     background: #ffffff;
+    transform: rotate(45deg);
   }
 
   .pin-button svg {
-    transform: rotate(45deg);
     stroke: #ffffff !important;
     stroke-width: 5% !important;
     fill: $accent-color-primary !important;
@@ -364,8 +370,10 @@ button {
   }
 
   a {
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid transparent;
     color: #ffffff;
+    text-decoration: none;
+    transition: 0.2s;
 
     i {
       margin-right: 12px;
@@ -375,6 +383,18 @@ button {
     p {
       display: inline-block;
     }
+  }
+
+  a:hover {
+    border-bottom: 1px solid #ffffff;
+  }
+
+  p a {
+    text-decoration: underline;
+  }
+
+  p a:hover {
+    border: none;
   }
 }
 

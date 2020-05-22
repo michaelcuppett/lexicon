@@ -8,6 +8,11 @@
       "type": "image/png"
     },
     {
+      "src": "assets/favicon_525x525.png",
+      "sizes": "525x525",
+      "type": "image/png"
+    }
+    {
       "src": "assets/thumbnail.png",
       "type": "image/png",
       "sizes": "1200x628"

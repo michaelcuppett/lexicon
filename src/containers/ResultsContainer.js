@@ -35,7 +35,7 @@ class Result extends React.Component {
         </div>
         <span className="pin-container">
           <button className="pin-button" onClick={this.props.handlePin} id={word.word_id}>
-
+            +
           </button>
         </span>
       </div>

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 $primary-font: "PT Sans";
 $secondary-font: "Roboto";
 $base-color-light: #eaeaea;
@@ -44,7 +46,8 @@ button {
     display: block;
     font-size: 1.4rem;
     outline: none;
-    border: none;
+    border: 0px;
+    border-radius: 0px;
     border-bottom: 1px solid $base-color-dark;
     padding: 10px 0px;
     margin: 14px 0px;
@@ -124,21 +127,11 @@ button {
     border: none;
     background: none;
 
-    /* .pin-button::after {
-      position: absolute;
-      width: 1rem;
-      height: 1rem;
-      left: 0.5rem;
-      top: 0.5rem;
-      content: url('/assets/plus.svg');
-    } */
-
     .pin-button {
       display: block;
       color: #ffffff;
       border: none;
       position: relative;
-      content: "+";
       font-size: 2rem;
       background-color: $accent-color-primary;
       border-radius: 300px;
